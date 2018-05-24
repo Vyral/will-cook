@@ -12,7 +12,7 @@ title: An Important Update for the Palm Springs Area Market
 date: '2018-05-17T13:47:00.000-07:00'
 author: Vyral Admin
 tags:
-- Palm Springs Area Market Update
+- Palm Springs Market Update
 modified_time: '2018-05-17T13:47:54.586-07:00'
 thumbnail: https://i.ytimg.com/vi/5hkVbR7FMhQ/default.jpg
 blogger_id: tag:blogger.com,1999:blog-1124834037264581965.post-2232028374685412982

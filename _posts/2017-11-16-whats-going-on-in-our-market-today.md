@@ -12,7 +12,7 @@ title: What's Going on in Our Market Today?
 date: '2017-11-16T09:40:00.002-08:00'
 author: Vyral Admin
 tags:
-- Palm Springs Area Market Update
+- Palm Springs Market Update
 modified_time: '2017-11-16T09:40:26.739-08:00'
 thumbnail: https://i.ytimg.com/vi/4LNcc6w4X48/default.jpg
 blogger_id: tag:blogger.com,1999:blog-1124834037264581965.post-5826018636371943268

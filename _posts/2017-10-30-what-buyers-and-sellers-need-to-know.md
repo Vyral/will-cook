@@ -12,8 +12,7 @@ title: What Buyers and Sellers Need to Know About Real Estate Contracts
 date: '2017-10-30T07:05:00.001-07:00'
 author: Vyral Admin
 tags:
-- Contracts
-- Palm Springs real estate
+- Palm Springs Real Estate
 modified_time: '2017-10-30T14:57:17.796-07:00'
 thumbnail: https://i.ytimg.com/vi/rrkT6cZfKJY/default.jpg
 blogger_id: tag:blogger.com,1999:blog-1124834037264581965.post-510924788023555419

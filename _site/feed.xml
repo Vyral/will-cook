@@ -5,9 +5,47 @@
     <description>Our mission at Will Cook Group is to be your best resource for Palm Springs real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The Will Cook Group, your professional Palm Springs Real Estate Agents.</description>
     <link>localhost:4000/</link>
     <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 24 May 2018 16:20:09 -0500</pubDate>
-    <lastBuildDate>Thu, 24 May 2018 16:20:09 -0500</lastBuildDate>
+    <pubDate>Thu, 24 May 2018 16:26:14 -0500</pubDate>
+    <lastBuildDate>Thu, 24 May 2018 16:26:14 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title></title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;What are the latest trends of the Palm Springs area market? I’ll fill you in on the numbers today.&lt;/p&gt;
+
+&lt;div class=&quot;post-cta&quot;&gt;
+Buying a home? &lt;a href=&quot;http://will.palmspringsarea.properties/index.php?types[]=1&amp;amp;types[]=2&amp;amp;areas[]=city%3APalm+Springs&amp;amp;fbts=3108061&amp;amp;beds=0&amp;amp;baths=0&amp;amp;min=0&amp;amp;max=30000000&amp;amp;map=0&amp;amp;options[]=new&amp;amp;sortby=listings.listingdate+DESC&amp;amp;quick=1&amp;amp;ppc=VyralVideoBlog_Buyers&amp;amp;addht=VyralVideoBlog_Buyers#rslt&quot; target=&quot;_blank&quot;&gt;Click here to perform a full home search&lt;/a&gt;&lt;br /&gt;
+Selling a home? &lt;a href=&quot;http://www.topproducer.com/pages/index.html?pageid=a237f3ff-79a3-40c9-96d2-a3ad8cda13ac&quot; target=&quot;_blank&quot;&gt;Click here for a FREE Home Price Evaluation&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Are you up-to-date about what’s going on in our local real estate market?&lt;/p&gt;
+
+&lt;p&gt;As of February 1, the months-of-supply ratio was 4.9, which is &lt;strong&gt;a record-low ratio and is responsible for the continued trend of being in a seller’s market.&lt;/strong&gt; The chart shown at 0:44 in the video shows that March is usually the high in this ratio, and we expect it not to exceed five months of supply for the entire year.&lt;/p&gt;
+
+&lt;p&gt;This is a considerable improvement over the last three years, when it often went above six months for extended periods of time. This indicates that &lt;strong&gt;inventory should remain low and tight in 2018,&lt;/strong&gt; making it a seller’s market in general, and putting upward pressure on pricing.&lt;/p&gt;
+
+&lt;p&gt;The days on market remains low as well, at just 66 days. The inventory improvement compared to a year ago is found in all price brackets, but especially between $400,000 and $800,000. As we expect, the months-of-supply ratio increases at higher prices, but it doesn’t really start until prices get over $700,000, while inventory ratios for prices above $900,000 are better than a year ago—that segment of the market is still a buyer’s market.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=%20localhost:4000/2018-02-16-a-market-update-for-palm-springs-area.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Inventory rose by 330 units in January for a total of 4,083 units listed by February 1. As the graph at 2:06 in the video indicates, for the last five years, January has shown an increase in inventory. With some January increases larger than others, the largest increase was in January of 2016, when it rose by 1,000 units. &lt;strong&gt;If inventory continues its historical pattern, we should see a peak sometime next month&lt;/strong&gt; in the low 4,000s, then slowly declining. This continuing low supply of inventory should put upward pressure on pricing.&lt;/p&gt;
+
+&lt;p&gt;Year-over-year changes in single-family or detached median home prices of the nine major cities remain very strong. Only LaQuinta has a lower median price than it did a year ago. The other eight cities are all higher.&lt;/p&gt;
+
+&lt;p&gt;The attached, or condo, market continues to show marginal price increases. The two largest condo cities—Palm Springs and Palm Desert—show increase of 4.9% and 3% respectively. With the threat of inflation, interest rates have begun to climb, and most experts project a steady trend towards a 5%, 30-year fixed rate by the end of the year.&lt;/p&gt;
+
+&lt;p&gt;Our continued price appreciation and lower inventory point to a great time to consider selling your Greater Palm Springs area home. &lt;strong&gt;If you’re a buyer who will be getting financing, there is some urgency to get into this market now&lt;/strong&gt; before interest rates affect your purchasing power.&lt;/p&gt;
+
+&lt;p&gt;If you have any questions about the value of your home or you’d like to explore purchasing a home in the Palm Springs area, then please feel free to reach out to us. We’d be happy to help you out.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 24 May 2018 16:26:14 -0500</pubDate>
+        <link>localhost:4000/2018-02-16-a-market-update-for-palm-springs-area.html</link>
+        <guid isPermaLink="true">localhost:4000/2018-02-16-a-market-update-for-palm-springs-area.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>An Important Update for the Palm Springs Area Market</title>
@@ -48,7 +86,7 @@ Selling a home? &lt;a href=&quot;http://www.topproducer.com/pages/index.html?pag
         <link>localhost:4000/an-important-update-for-palm-springs.html</link>
         <guid isPermaLink="true">localhost:4000/an-important-update-for-palm-springs.html</guid>
         
-        <category>Palm Springs Area Market Update</category>
+        <category>Palm Springs Market Update</category>
         
         
       </item>
@@ -176,46 +214,6 @@ Selling a home? &lt;a href=&quot;http://www.topproducer.com/pages/index.html?pag
       </item>
     
       <item>
-        <title>A Market Update for the Palm Springs Area</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Filoryo1gFo?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;What are the latest trends of the Palm Springs area market? I’ll fill you in on the numbers today.&lt;/p&gt;
-
-&lt;div class=&quot;post-cta&quot;&gt;
-Buying a home? &lt;a href=&quot;http://will.palmspringsarea.properties/index.php?types[]=1&amp;amp;types[]=2&amp;amp;areas[]=city%3APalm+Springs&amp;amp;fbts=3108061&amp;amp;beds=0&amp;amp;baths=0&amp;amp;min=0&amp;amp;max=30000000&amp;amp;map=0&amp;amp;options[]=new&amp;amp;sortby=listings.listingdate+DESC&amp;amp;quick=1&amp;amp;ppc=VyralVideoBlog_Buyers&amp;amp;addht=VyralVideoBlog_Buyers#rslt&quot; target=&quot;_blank&quot;&gt;Click here to perform a full home search&lt;/a&gt;&lt;br /&gt;
-Selling a home? &lt;a href=&quot;http://www.topproducer.com/pages/index.html?pageid=a237f3ff-79a3-40c9-96d2-a3ad8cda13ac&quot; target=&quot;_blank&quot;&gt;Click here for a FREE Home Price Evaluation&lt;/a&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Are you up-to-date about what’s going on in our local real estate market?&lt;/p&gt;
-
-&lt;p&gt;As of February 1, the months-of-supply ratio was 4.9, which is &lt;strong&gt;a record-low ratio and is responsible for the continued trend of being in a seller’s market.&lt;/strong&gt; The chart shown at 0:44 in the video shows that March is usually the high in this ratio, and we expect it not to exceed five months of supply for the entire year.&lt;/p&gt;
-
-&lt;p&gt;This is a considerable improvement over the last three years, when it often went above six months for extended periods of time. This indicates that &lt;strong&gt;inventory should remain low and tight in 2018,&lt;/strong&gt; making it a seller’s market in general, and putting upward pressure on pricing.&lt;/p&gt;
-
-&lt;p&gt;The days on market remains low as well, at just 66 days. The inventory improvement compared to a year ago is found in all price brackets, but especially between $400,000 and $800,000. As we expect, the months-of-supply ratio increases at higher prices, but it doesn’t really start until prices get over $700,000, while inventory ratios for prices above $900,000 are better than a year ago—that segment of the market is still a buyer’s market.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=OUR CONTINUED PRICE APPRECIATION AND LOWER INVENTORY POINT TO A GREAT TIME TO CONSIDER SELLING YOUR GREATER PALM SPRINGS AREA HOME.%20localhost:4000/a-market-update-for-palm-springs-area.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“OUR CONTINUED PRICE APPRECIATION AND LOWER INVENTORY POINT TO A GREAT TIME TO CONSIDER SELLING YOUR GREATER PALM SPRINGS AREA HOME.”&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Inventory rose by 330 units in January for a total of 4,083 units listed by February 1. As the graph at 2:06 in the video indicates, for the last five years, January has shown an increase in inventory. With some January increases larger than others, the largest increase was in January of 2016, when it rose by 1,000 units. &lt;strong&gt;If inventory continues its historical pattern, we should see a peak sometime next month&lt;/strong&gt; in the low 4,000s, then slowly declining. This continuing low supply of inventory should put upward pressure on pricing.&lt;/p&gt;
-
-&lt;p&gt;Year-over-year changes in single-family or detached median home prices of the nine major cities remain very strong. Only LaQuinta has a lower median price than it did a year ago. The other eight cities are all higher.&lt;/p&gt;
-
-&lt;p&gt;The attached, or condo, market continues to show marginal price increases. The two largest condo cities—Palm Springs and Palm Desert—show increase of 4.9% and 3% respectively. With the threat of inflation, interest rates have begun to climb, and most experts project a steady trend towards a 5%, 30-year fixed rate by the end of the year.&lt;/p&gt;
-
-&lt;p&gt;Our continued price appreciation and lower inventory point to a great time to consider selling your Greater Palm Springs area home. &lt;strong&gt;If you’re a buyer who will be getting financing, there is some urgency to get into this market now&lt;/strong&gt; before interest rates affect your purchasing power.&lt;/p&gt;
-
-&lt;p&gt;If you have any questions about the value of your home or you’d like to explore purchasing a home in the Palm Springs area, then please feel free to reach out to us. We’d be happy to help you out.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 16 Feb 2018 10:27:00 -0600</pubDate>
-        <link>localhost:4000/a-market-update-for-palm-springs-area.html</link>
-        <guid isPermaLink="true">localhost:4000/a-market-update-for-palm-springs-area.html</guid>
-        
-        <category>Market Update</category>
-        
-        
-      </item>
-    
-      <item>
         <title>4 Ways the New Tax Bill Will Impact the Real Estate Market</title>
         <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/2F5wVczz1W8?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
@@ -250,7 +248,7 @@ Selling a home? &lt;a href=&quot;http://www.topproducer.com/pages/index.html?pag
         <link>localhost:4000/4-ways-new-tax-bill-will-impact-real.html</link>
         <guid isPermaLink="true">localhost:4000/4-ways-new-tax-bill-will-impact-real.html</guid>
         
-        <category>Market Update</category>
+        <category>Palm Springs Market Update</category>
         
         
       </item>
@@ -374,7 +372,7 @@ Selling a home? &lt;a href=&quot;http://www.topproducer.com/pages/index.html?pag
         <link>localhost:4000/whats-going-on-in-our-market-today.html</link>
         <guid isPermaLink="true">localhost:4000/whats-going-on-in-our-market-today.html</guid>
         
-        <category>Palm Springs Area Market Update</category>
+        <category>Palm Springs Market Update</category>
         
         
       </item>
@@ -426,9 +424,7 @@ Selling a home? &lt;a href=&quot;http://www.topproducer.com/pages/index.html?pag
         <link>localhost:4000/what-buyers-and-sellers-need-to-know.html</link>
         <guid isPermaLink="true">localhost:4000/what-buyers-and-sellers-need-to-know.html</guid>
         
-        <category>Contracts</category>
-        
-        <category>Palm Springs real estate</category>
+        <category>Palm Springs Real Estate</category>
         
         
       </item>

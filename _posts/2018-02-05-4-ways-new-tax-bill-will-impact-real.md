@@ -12,7 +12,7 @@ title: 4 Ways the New Tax Bill Will Impact the Real Estate Market
 date: '2018-02-05T09:06:00.000-08:00'
 author: Vyral Admin
 tags:
-- Market Update
+- Palm Springs Market Update
 modified_time: '2018-02-05T09:06:48.283-08:00'
 thumbnail: https://i.ytimg.com/vi/2F5wVczz1W8/default.jpg
 blogger_id: tag:blogger.com,1999:blog-1124834037264581965.post-1171468391434743860

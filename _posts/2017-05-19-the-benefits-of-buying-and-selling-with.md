@@ -12,7 +12,7 @@ title: The Benefits of Buying and Selling With a Single Agent
 date: '2017-05-19T13:04:00.003-07:00'
 author: Vyral Admin
 tags:
-- Palm Springs real estate
+- Palm Springs Real Estate
 modified_time: '2017-05-22T08:34:26.439-07:00'
 thumbnail: https://i.ytimg.com/vi/jXN9cWhttCU/default.jpg
 blogger_id: tag:blogger.com,1999:blog-1124834037264581965.post-8951870910720354650

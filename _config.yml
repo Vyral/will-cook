@@ -17,7 +17,7 @@ kramdown:
   input: GFM
 highlighter: rouge
 
-paginate: 6
+paginate: 8
 permalink: none
 
 gems:
@@ -44,7 +44,7 @@ defaults:
     values:
       layout: "default"
 tags:
-  - Market Update
-  - Real Estate
-  - Home Buyer Tips
-  - Home Seller Tips
+  - Palm Springs Market Update
+  - Palm Springs Real Estate
+  - Palm Springs Homebuyer Tips
+  - Palm Springs Home Selling Tips

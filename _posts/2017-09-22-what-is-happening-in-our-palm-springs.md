@@ -12,7 +12,7 @@ title: What Is Happening in Our Palm Springs Area Market?
 date: '2017-09-22T08:36:00.001-07:00'
 author: Vyral Admin
 tags:
-- Palm Springs Area Market Update
+- Palm Springs Market Update
 modified_time: '2017-09-22T12:52:25.359-07:00'
 thumbnail: https://i.ytimg.com/vi/ttkV7tRdH6g/default.jpg
 blogger_id: tag:blogger.com,1999:blog-1124834037264581965.post-4247067389308063178
