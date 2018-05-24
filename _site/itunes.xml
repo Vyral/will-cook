@@ -7,7 +7,7 @@
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Will Cook Group - your professional Palm Springs Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Will Cook</managingEditor>
-    <lastBuildDate>2018-05-24 16:26:14 -0500</lastBuildDate>
+    <lastBuildDate>2018-05-24 16:26:24 -0500</lastBuildDate>
     <media:copyright>Will Cook</media:copyright>
     <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Palm Springs, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
@@ -24,52 +24,6 @@
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Will Cook Group - your professional Palm Springs Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
-      <item>
-        <title></title>
-        <link>localhost:4000/2018-02-16-a-market-update-for-palm-springs-area.html</link>
-        
-        <author>Will Cook</author>
-        <pubDate>2018-05-24 16:26:14 -0500</pubDate>
-        <guid></guid>
-        <description>
-
-What are the latest trends of the Palm Springs area market? I’ll fill you in on the numbers today.
-
-
-Buying a home? Click here to perform a full home search
-Selling a home? Click here for a FREE Home Price Evaluation
-
-
-Are you up-to-date about what’s going on in our local real estate market?
-
-As of February 1, the months-of-supply ratio was 4.9, which is a record-low ratio and is responsible for the continued trend of being in a seller’s market. The chart shown at 0:44 in the video shows that March is usually the high in this ratio, and we expect it not to exceed five months of supply for the entire year.
-
-This is a considerable improvement over the last three years, when it often went above six months for extended periods of time. This indicates that inventory should remain low and tight in 2018, making it a seller’s market in general, and putting upward pressure on pricing.
-
-The days on market remains low as well, at just 66 days. The inventory improvement compared to a year ago is found in all price brackets, but especially between $400,000 and $800,000. As we expect, the months-of-supply ratio increases at higher prices, but it doesn’t really start until prices get over $700,000, while inventory ratios for prices above $900,000 are better than a year ago—that segment of the market is still a buyer’s market.
-
-“”
-
-Inventory rose by 330 units in January for a total of 4,083 units listed by February 1. As the graph at 2:06 in the video indicates, for the last five years, January has shown an increase in inventory. With some January increases larger than others, the largest increase was in January of 2016, when it rose by 1,000 units. If inventory continues its historical pattern, we should see a peak sometime next month in the low 4,000s, then slowly declining. This continuing low supply of inventory should put upward pressure on pricing.
-
-Year-over-year changes in single-family or detached median home prices of the nine major cities remain very strong. Only LaQuinta has a lower median price than it did a year ago. The other eight cities are all higher.
-
-The attached, or condo, market continues to show marginal price increases. The two largest condo cities—Palm Springs and Palm Desert—show increase of 4.9% and 3% respectively. With the threat of inflation, interest rates have begun to climb, and most experts project a steady trend towards a 5%, 30-year fixed rate by the end of the year.
-
-Our continued price appreciation and lower inventory point to a great time to consider selling your Greater Palm Springs area home. If you’re a buyer who will be getting financing, there is some urgency to get into this market now before interest rates affect your purchasing power.
-
-If you have any questions about the value of your home or you’d like to explore purchasing a home in the Palm Springs area, then please feel free to reach out to us. We’d be happy to help you out.
-</description>
-        <enclosure url="" length="" type=""/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type=""/>
-        <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle></itunes:subtitle>
-        <itunes:author>Will Cook</itunes:author>
-        <itunes:summary></itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Palm Springs, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
-      </item>
-      
       <item>
         <title>An Important Update for the Palm Springs Area Market</title>
         <link>localhost:4000/an-important-update-for-palm-springs.html</link>
@@ -295,6 +249,62 @@ When the market favors sellers, it can be tempting to test your luck with your l
         <itunes:summary>
 
 When the market favors sellers, it can be tempting to test your luck with your listing. Today, I’d like to go over what you should do instead.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Palm Springs, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>A Market Update for the Palm Springs Area</title>
+        <link>localhost:4000/a-market-update-for-palm-springs-area.html</link>
+        
+          <category>Palm Springs Market Update</category>
+        
+        <author>Will Cook</author>
+        <pubDate>2018-02-16 10:27:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Will+Cook/Palm+Springs+Real+Estate+Agent-+Market+Update.mp4</guid>
+        <description>
+
+What are the latest trends of the Palm Springs area market? I’ll fill you in on the numbers today.
+
+
+Buying a home? Click here to perform a full home search
+Selling a home? Click here for a FREE Home Price Evaluation
+
+
+Are you up-to-date about what’s going on in our local real estate market?
+
+As of February 1, the months-of-supply ratio was 4.9, which is a record-low ratio and is responsible for the continued trend of being in a seller’s market. The chart shown at 0:44 in the video shows that March is usually the high in this ratio, and we expect it not to exceed five months of supply for the entire year.
+
+This is a considerable improvement over the last three years, when it often went above six months for extended periods of time. This indicates that inventory should remain low and tight in 2018, making it a seller’s market in general, and putting upward pressure on pricing.
+
+The days on market remains low as well, at just 66 days. The inventory improvement compared to a year ago is found in all price brackets, but especially between $400,000 and $800,000. As we expect, the months-of-supply ratio increases at higher prices, but it doesn’t really start until prices get over $700,000, while inventory ratios for prices above $900,000 are better than a year ago—that segment of the market is still a buyer’s market.
+
+“OUR CONTINUED PRICE APPRECIATION AND LOWER INVENTORY POINT TO A GREAT TIME TO CONSIDER SELLING YOUR GREATER PALM SPRINGS AREA HOME.”
+
+Inventory rose by 330 units in January for a total of 4,083 units listed by February 1. As the graph at 2:06 in the video indicates, for the last five years, January has shown an increase in inventory. With some January increases larger than others, the largest increase was in January of 2016, when it rose by 1,000 units. If inventory continues its historical pattern, we should see a peak sometime next month in the low 4,000s, then slowly declining. This continuing low supply of inventory should put upward pressure on pricing.
+
+Year-over-year changes in single-family or detached median home prices of the nine major cities remain very strong. Only LaQuinta has a lower median price than it did a year ago. The other eight cities are all higher.
+
+The attached, or condo, market continues to show marginal price increases. The two largest condo cities—Palm Springs and Palm Desert—show increase of 4.9% and 3% respectively. With the threat of inflation, interest rates have begun to climb, and most experts project a steady trend towards a 5%, 30-year fixed rate by the end of the year.
+
+Our continued price appreciation and lower inventory point to a great time to consider selling your Greater Palm Springs area home. If you’re a buyer who will be getting financing, there is some urgency to get into this market now before interest rates affect your purchasing power.
+
+If you have any questions about the value of your home or you’d like to explore purchasing a home in the Palm Springs area, then please feel free to reach out to us. We’d be happy to help you out.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Will+Cook/Palm+Springs+Real+Estate+Agent-+Market+Update.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Will+Cook/Palm+Springs+Real+Estate+Agent-+Market+Update.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+What are the latest trends of the Palm Springs area market? I’ll fill you in on the numbers today.
+
+</itunes:subtitle>
+        <itunes:author>Will Cook</itunes:author>
+        <itunes:summary>
+
+What are the latest trends of the Palm Springs area market? I’ll fill you in on the numbers today.
 
 </itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Palm Springs, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
