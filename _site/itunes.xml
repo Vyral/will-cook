@@ -7,7 +7,7 @@
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Will Cook Group - your professional Palm Springs Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Will Cook</managingEditor>
-    <lastBuildDate>2018-05-24 16:26:24 -0500</lastBuildDate>
+    <lastBuildDate>2018-06-12 10:25:33 -0500</lastBuildDate>
     <media:copyright>Will Cook</media:copyright>
     <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Palm Springs, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
@@ -24,6 +24,33 @@
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Will Cook Group - your professional Palm Springs Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
+      <item>
+        <title>Real Estate Remains Hot, Aside From the Luxury Market Segment</title>
+        <link>localhost:4000/real-estate-remains-hot-aside-from-the-luxury-market-segment.html</link>
+        
+          <category>Palm Springs Real Estate</category>
+        
+        <author>Will Cook</author>
+        <pubDate>2018-06-01 13:34:23 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Will+Cook/Palm+Springs+Real+Estate+Agent-+Real+Estate+Remains+Hot%252C+Aside+From+the+Luxury+Market+Segment.mp4</guid>
+        <description>
+
+As you saw in my last market update for Palm Springs, the real estate market remains red-hot. Palm Springs has actually surpassed its all-time high in the single-family market.
+
+In fact, Zillow estimates that homes sold more quickly in 2017 than ever before. Meanwhile 2018 seems on pace to beat 2017. However, there is one segment of the real estate market seems to be lagging.I’m talking about the luxury home market.Prices in the top 5% of the real estate market increased just 5.1% in 2017, which is a full 2% lower than the rest of the market. What’s going on?Affordability does not seem to be an issue, as more Americans can afford a top-level home than ever before. Instead, it might come down to two other contributing factors.First, uncertainty surrounding the new tax bill could be affecting luxury homes more strongly, and this might be the reason why some potential buyers are choosing to sit and wait until the details of the new tax bill become more clear for their specific situation. Second, there is simply a greater supply of luxury homes than in any other market segment. In fact, 53% of available housing inventory is in the premium market, compared to 23% for the start-up market and 24% for the trade-up homes.
+
+“Demand and supply are more evenly matched at the top of the market.”In other words, supply outstrips demand at the top of the market, while in other segments, demand far outstrips supply. What does all of this mean for you?If you’ve been thinking about trading up to a luxury home, now might be the perfect time to do so. The red-hot demand for starter and trade-up homes mean you could sell your home for top dollar and in record time. The limited price growth and greater inventory at the luxury end means you could have your pick, and find a special, unique, customized home that perfectly suits your needs.If you have any questions about the current Palm Springs real estate market, what your home is worth, and what’s out there, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Will+Cook/Palm+Springs+Real+Estate+Agent-+Real+Estate+Remains+Hot%252C+Aside+From+the+Luxury+Market+Segment.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Will+Cook/Palm+Springs+Real+Estate+Agent-+Real+Estate+Remains+Hot%252C+Aside+From+the+Luxury+Market+Segment.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Current market conditions are favorable for certain buyers and sellers. Here are the latest details.</itunes:subtitle>
+        <itunes:author>Will Cook</itunes:author>
+        <itunes:summary>Current market conditions are favorable for certain buyers and sellers. Here are the latest details.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Palm Springs, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
       <item>
         <title>An Important Update for the Palm Springs Area Market</title>
         <link>localhost:4000/an-important-update-for-palm-springs.html</link>
