@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Quick Update About Your Palm Springs Market
-date: 2018-08-16 18:15:10
+date: 2018-08-16 18:15:00
 tags:
   - Palm Springs Market Update
 excerpt: >-
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: KXhwjZWoj8
 ---
 
 {% include youtube.html %}
