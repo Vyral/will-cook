@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Why Fall May Be the Perfect Time to List
-date: 2018-10-05 16:49:02
+title: Top 3 Reasons to put your Palm Springs Area Home on the Market this Fall
+date: 2018-10-05 16:49:00
 tags:
   - Palm Springs Real Estate
 excerpt: >-
@@ -21,7 +21,7 @@ youtube_code: xB-yFWpCtx4
 
 {% include youtube.html %}
 
-Summer may be behind us, but the opportunity to put your home on the market has not yet passed. Today, I’d like to share three reasons you should consider listing your Palm Springs area home this fall.
+Our fall market actually presents a number of amazing opportunities for Palm Spring sellers, and today we’ll be highlighting three reasons why putting your property on the market during these later months of the year may be the right next move for you.
 
 **1. Interest rates are rising.** The Federal Reserve recently met and raised policy rates by 0.25%. Before that, mortgage rates rose as well. Now, the average interest rate for a single-family home is hovering just below 5%. For condominiums, though, the average rate is now just slightly above 5%. And more rate increases are on the horizon, with one more coming in December of this year and three more expected in 2019. As a result, today’s sellers have the opportunity to capitalize on the sense of urgency spreading among buyers right now.
 
