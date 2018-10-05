@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Top 3 Reasons to put your Palm Springs Area Home on the Market this Fall
+title: Top 3 Reasons to Put Your Palm Springs Area Home on the Market this Fall
 date: 2018-10-05 16:49:00
 tags:
   - Palm Springs Real Estate
