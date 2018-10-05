@@ -23,12 +23,12 @@ youtube_code: xB-yFWpCtx4
 
 Summer may be behind us, but the opportunity to put your home on the market has not yet passed. Today, I’d like to share three reasons you should consider listing your Palm Springs area home this fall.
 
-Interest rates are rising. The Federal Reserve recently met and raised policy rates by 0.25%. Before that, mortgage rates rose as well. Now, the average interest rate for a single-family home is hovering just below 5%. For condominiums, though, the average rate is now just slightly above 5%. And more rate increases are on the horizon, with one more coming in December of this year and three more expected in 2019. As a result, today’s sellers have the opportunity to capitalize on the sense of urgency spreading among buyers right now.
+**1. Interest rates are rising.** The Federal Reserve recently met and raised policy rates by 0.25%. Before that, mortgage rates rose as well. Now, the average interest rate for a single-family home is hovering just below 5%. For condominiums, though, the average rate is now just slightly above 5%. And more rate increases are on the horizon, with one more coming in December of this year and three more expected in 2019. As a result, today’s sellers have the opportunity to capitalize on the sense of urgency spreading among buyers right now.
 
 {% include pullquote.html %}
 
-There will be less competition. The majority of Palm Spring homes are vacation properties bought by those looking to take advantage of our gorgeous local weather. While other areas in the country grow cold during the winter months, our Palm Springs area remains nice and warm. So given the fact that people tend to flock here during later months and that September typically sees fewer listings than any other time of year, fall is an ideal time to list here in Palm Springs.
+**2. There will be less competition.** The majority of Palm Spring homes are vacation properties bought by those looking to take advantage of our gorgeous local weather. While other areas in the country grow cold during the winter months, our Palm Springs area remains nice and warm. So given the fact that people tend to flock here during later months and that September typically sees fewer listings than any other time of year, fall is an ideal time to list here in Palm Springs.
 
-The weather starts to break. While temperatures are in the triple digits during the summer, they tend to become slightly milder with the arrival of fall. This draws more visitors to our area. And more people means more exposure for your listing.
+**3. The weather starts to break.** While temperatures are in the triple digits during the summer, they tend to become slightly milder with the arrival of fall. This draws more visitors to our area. And more people means more exposure for your listing.
 
 If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
