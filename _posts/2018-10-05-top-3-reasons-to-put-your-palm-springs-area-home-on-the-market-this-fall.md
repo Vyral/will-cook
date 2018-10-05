@@ -5,8 +5,10 @@ date: 2018-10-05 16:49:00
 tags:
   - Palm Springs Real Estate
 excerpt: >-
-  Sellers: It isn’t too late to list your Palm Springs home this year. There are
-  three reasons why fall may be an ideal time to get your home on the market.
+  Our fall market actually presents a number of amazing opportunities for Palm
+  Spring sellers, and today we’ll be highlighting three reasons why putting your
+  property on the market during these later months of the year may be the right
+  next move for you.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Will+Cook/Palm+Springs+Real+Estate+Agent-+3+Reasons+to+Put+Your+Palm+Springs+Home+on+the+Market+This+Fall.mp4
 pullquote: >-
