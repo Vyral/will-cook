@@ -1,14 +1,14 @@
 ---
 layout: post
 title: The Nuances of Buying in Palm Springs
-date: 2018-11-01 18:14:40
+date: 2018-11-01 18:14:00
 tags:
   - Palm Springs Real Estate
 excerpt: >-
-  https://s3.amazonaws.com/vyralmarketing/Will+Cook/Palm+Springs+Real+Estate+Agent-+The+Nuances+of+Buying+in+Palm+Springs.mp4
-enclosure: >-
   There are three nuances you need to be aware of when buying a home in Palm
   Springs.
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Will+Cook/Palm+Springs+Real+Estate+Agent-+The+Nuances+of+Buying+in+Palm+Springs.mp4
 pullquote: >-
   Palm Springs is divided into three main areas: the north end, the central
   section, and the south end.
@@ -45,7 +45,7 @@ In the latter case, when the railroad was built in the Palm Springs area in the 
 
 **Nuance #3: How you’re going to use the property**
 
-More specifically, do you plan on purchasing a home you want to rent out when you’re not using it? I get a lot of calls from out-of-towners who want to purchase a home and retire here, but they’re not quite ready to start living here permanently yet. They instead opt to buy a home they can rent out that offsets some of the costs until they are ready to move here. &nbsp;
+More specifically, do you plan on purchasing a home you want to rent out when you’re not using it? I get a lot of calls from out-of-towners who want to purchase a home and retire here, but they’re not quite ready to start living here permanently yet. They instead opt to buy a home they can rent out that offsets some of the costs until they are ready to move here.  
 
 Our vacation rental industry is doing very well; however, there are some pretty strong city ordinances regarding rental properties that you need to familiarize yourself with. The other thing you need to consider is that most houses that are located within an HOA neighborhood or a gated community have guidelines determining how long you can rent out your house. In an HOA neighborhood, the minimum rental period is usually 30 days. This means if you plan on turning your home into a weekend vacation rental, you should look outside of HOA neighborhoods. The same 30-day rule generally applies to condos as well, but in both cases, there are some exceptions.
 
