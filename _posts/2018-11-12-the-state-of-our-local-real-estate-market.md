@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The State of Our Local Real Estate Market
-date: 2018-11-12 15:00:00
+date: 2018-11-12 00:00:00
 tags:
   - Palm Springs Real Estate
 excerpt: >-
