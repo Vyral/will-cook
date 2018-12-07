@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>localhost:4000/the-state-of-our-local-real-estate-market.html</loc>
+<lastmod>2018-11-13T06:00:00-06:00</lastmod>
+</url>
+<url>
+<loc>localhost:4000/the-nuances-of-buying-in-palm-springs.html</loc>
+<lastmod>2018-11-01T13:14:00-05:00</lastmod>
+</url>
+<url>
+<loc>localhost:4000/top-3-reasons-to-put-your-palm-springs-area-home-on-the-market-this-fall.html</loc>
+<lastmod>2018-10-05T11:49:00-05:00</lastmod>
+</url>
+<url>
+<loc>localhost:4000/3-myths-about-your-real-estate-market.html</loc>
+<lastmod>2018-09-11T16:21:44-05:00</lastmod>
+</url>
+<url>
+<loc>localhost:4000/a-quick-update-about-your-palm-springs-market.html</loc>
+<lastmod>2018-08-16T13:15:00-05:00</lastmod>
+</url>
+<url>
+<loc>localhost:4000/3-tips-to-become-a-successful-vacation-rental-owner.html</loc>
+<lastmod>2018-06-22T14:54:34-05:00</lastmod>
+</url>
+<url>
 <loc>localhost:4000/real-estate-remains-hot-aside-from-the-luxury-market-segment.html</loc>
 <lastmod>2018-06-01T13:34:23-05:00</lastmod>
 </url>

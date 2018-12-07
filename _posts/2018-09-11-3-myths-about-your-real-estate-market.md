@@ -14,8 +14,8 @@ pullquote: >-
   quarters and does not equal a housing crisis.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/cook_ss.jpg
 youtube_code: '-IN32Mi1rpE'
 ---
 
