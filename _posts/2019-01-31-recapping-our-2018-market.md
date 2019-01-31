@@ -25,6 +25,6 @@ In 2017, there was an average of 3,984 active listings. As you can see, we had s
 
 Next, let’s look at how pricing your home will affect the sale. In 2017, there were 5,809 properties sold that did not have a price change, selling at 96% of the initial offer price. They were also on the market for an average of 65 days. In 2018, there were 6,014 properties sold, selling at 90% of the initial offer price. They were on the market for only 60 days, which was shorter than the previous year.
 
-Looking at homes that had one or more price changes, you can see that there were 3,738 homes sold in 2017. Those homes sold at only 90% of the inital offer price, with an average of 156 days on market. In 2018, there were 3,358 homes sold, selling at only 89% of the initial offer prices. The average days on market for these homes was 141.
+Looking at homes that had one or more price changes, you can see that there were 3,738 homes sold in 2017. Those homes sold at only 90% of the initial offer price, with an average of 156 days on market. In 2018, there were 3,358 homes sold, selling at only 89% of the initial offer prices. The average days on market for these homes was 141.
 
 As you can see, pricing your home correctly is crucial for selling quickly, and at top dollar. If you have any questions about home pricing or about residential real estate in general, please don’t hesitate to reach out to me. I’d be happy to address any topic you need.
