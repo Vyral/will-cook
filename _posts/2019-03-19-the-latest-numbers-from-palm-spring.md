@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Latest Numbers From Palm Spring
-date: 2019-02-21 22:30:00
+date: 2019-03-19 13:00:00
 tags:
   - Palm Springs Real Estate
 excerpt: >-
@@ -18,7 +18,7 @@ youtube_alternate_image:
 youtube_code: QmQaEwWaAW4
 ---
 
-&nbsp; {% include youtube.html %}&nbsp;
+{% include youtube.html %} 
 
 What’s the latest news from our Palm Springs market? There are a few metrics we have to look at.
 
@@ -30,7 +30,7 @@ When we look at the absorption rate in different price brackets, we see ratios t
 
 As of March 1, there were 3,909 homes for sale, which is almost identical to the 3,901 units we had for sale on March 1, 2018. Again, these are the lowest March 1 ratios we’re seen for the last five years, which we find encouraging considering the measurable drop in sales. **This implies that buying and selling are relatively balanced—even with the lower sales numbers.**
 
-&nbsp; {% include pullquote.html %} &nbsp;
+  {% include pullquote.html %}  
 
 12-month increases in city median prices for detached homes are beginning to slow in a comparable way to what we see in the regional detached index. For example, Cathedral City now shows a 12-month gain of only 2.7%, Indio a gain of 2%, Desert Hot Springs a gain of 1%, and Palm Springs and Palm Desert showing year-over-year price declines. In the condo market, Indio saw a 31% increase, Rancho Mirage saw a 24.9% increase, La Quinta saw an 11.8% increase, and Desert Hot Springs saw an 11.3% increase.
 
