@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Latest Numbers From Palm Spring
+title: The Latest Numbers From Palm Springs
 date: 2019-03-19 13:00:00
 tags:
   - Palm Springs Real Estate
