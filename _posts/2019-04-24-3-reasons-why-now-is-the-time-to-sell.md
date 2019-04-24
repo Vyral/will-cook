@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Reasons Why Now Is the Time to Sell
-date: 2019-04-24 16:43:23
+date: 2019-04-24 16:43:00
 tags:
   - Palm Springs Market Update
 excerpt: >-
@@ -13,7 +13,7 @@ pullquote: >-
   moment.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image: /uploads/will-cook--is-now-the-time-to-put-your-home-on-the-market-youtube.jpg
 youtube_code: KOHsCHOFXhs
 ---
