@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/will-cook--is-now-the-time-to-put-your-home-on-the-market-youtube.jpg
-youtube_code: KOHsCHOFXhs
+youtube_code: kLOrReTrwyE
 ---
 
 {% include youtube.html %}
