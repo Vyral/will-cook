@@ -4,10 +4,10 @@ title: How to Win in a Seller’s Market
 date: 2019-05-24 10:00:00
 tags:
   - Palm Springs Real Estate
-excerpt:
-enclosure: >-
+excerpt: >-
   There are three tips you need to follow as a buyer in order to win in a
   seller’s market.
+enclosure:
 pullquote: >-
   Now is not the time to lowball anyone, so you need to offer both a strong
   price and favorable terms.
