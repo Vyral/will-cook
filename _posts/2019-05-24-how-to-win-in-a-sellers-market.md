@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Win in a Seller’s Market
-date: 2019-05-24 00:00:00
+date: 2019-05-24 10:00:00
 tags:
   - Palm Springs Real Estate
 excerpt:
