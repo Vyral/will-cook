@@ -1,19 +1,19 @@
 ---
 layout: post
 title: 7 Mistakes That Will Sabotage Your Home Sale
-date: 2019-06-13 20:40:08
+date: 2019-06-13 20:45:19
 tags:
   - Palm Springs Real Estate
 excerpt: >-
   If you’re putting your home on the market, there are seven silly mistakes you
   need to avoid that can sabotage your home sale.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Will+Cook/Palm+Springs+Real+Estate+Agent-+7+Mistakes+That+Will+Sabotage+Your+Home+Sale.mp4
 pullquote: It’s the little things that make the biggest difference during your home sale.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
-youtube_alternate_image: >-
-  /uploads/will-cook--dont-let-these-mistakes-sabotage-your-home-sale-youtube.jpg
+use_youtube_image: true
+youtube_alternate_image:
 youtube_code: gM5i_0rxd_8
 ---
 
@@ -21,7 +21,7 @@ youtube_code: gM5i_0rxd_8
 
 Here are the seven silly mistakes you need to avoid so that they don’t sabotage your home sale:
 
-**1\. Cords hanging from a wall-mounted TV. **
+\*\*1. Cords hanging from a wall-mounted TV. \*\*
 
 **2\. An unkempt yard.** Curb appeal is a real thing. We often encourage our buyers to drive buy the home they want to look at, and an unkempt yard can send the wrong message to buyers about what they’ll find on the inside of the home.
 
