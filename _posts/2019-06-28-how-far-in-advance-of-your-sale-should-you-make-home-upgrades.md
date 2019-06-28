@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Far in Advance of Your Sale Should You Make Home Upgrades?
-date: 2019-06-28 21:31:21
+date: 2019-06-28 10:00:00
 tags:
   - Palm Springs Real Estate
 excerpt: >-
