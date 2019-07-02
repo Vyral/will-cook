@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/will-cook--the-right-time-to-start-making-upgrades-youtube-.jpg
-youtube_code: 1jZhjox0Kyw
+youtube_code: CkAbl1J_gP4
 ---
 
 {% include youtube.html %}
