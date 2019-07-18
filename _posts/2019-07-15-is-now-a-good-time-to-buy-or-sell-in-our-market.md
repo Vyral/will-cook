@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/will-cook--what-do-the-latest-stats-say-about-our-market-youtube.jpg
-youtube_code: EG1PGNfAUb4
+youtube_code: X6d6gDhLDvg
 ---
 
 {% include youtube.html %}
