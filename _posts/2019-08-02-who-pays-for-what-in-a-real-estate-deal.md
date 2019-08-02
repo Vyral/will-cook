@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Some buyers and sellers are unsure of what costs they’re responsible for in a
   real estate deal, so today we’ll get to the bottom of this common quandary.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Will+Cook/Will+Cook_Paragraph+7_2_final.mp4
 pullquote: >-
   Everything within this section of the contract is negotiable, but there has
   been a precedent established in regards to which party typically assumes each
@@ -22,7 +23,7 @@ youtube_code: t2ss5kzMQko
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Some buyers and sellers are unsure of what costs they’re responsible for in a real estate deal, so today we’ll get to the bottom of this common quandary.</em></p>
+*Some buyers and sellers are unsure of what costs they’re responsible for in a real estate deal, so today we’ll get to the bottom of this common quandary.*
 
 When a buyer submits an offer on a home, one of the steps they must take is to fill out a purchase contract with the help of their agent. Within this contract, **they will be able to stipulate what they plan to pay and when they would prefer to close, among other things.&nbsp;**
 
