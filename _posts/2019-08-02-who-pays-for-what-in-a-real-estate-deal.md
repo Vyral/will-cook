@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Who Pays for What in a Real Estate Deal?
-date: 2019-08-02 17:39:21
+date: 2019-08-02 17:39:00
 tags:
   - Palm Springs Homebuyer Tips
   - Palm Springs Home Selling Tips
