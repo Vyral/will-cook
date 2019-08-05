@@ -29,7 +29,7 @@ When a buyer submits an offer on a home, one of the steps they must take is to f
 
 Today, we’ll be focusing on one particularly crucial portion of this contract: the Allocation of Costs section.&nbsp;
 
-This section (also known as Paragraph 7) in the Palm Springs area’s Residential Purchase Agreement is the portion of the real estate contract that indicates what the buyer is willing to pay and what expenses they would like the seller to cover.&nbsp;
+This section (also known as Paragraph 7) in the California Residential Purchase Agreement is the portion of the real estate contract that indicates what the buyer is willing to pay and what expenses they would like the seller to cover.&nbsp;
 
 There are four sub-paragraphs included in Paragraph 7—7A, 7B, 7C, and 7D.
 
