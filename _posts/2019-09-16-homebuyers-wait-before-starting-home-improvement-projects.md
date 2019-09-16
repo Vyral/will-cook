@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Homebuyers: Wait Before Starting Home Improvement Projects'
-date: 2019-09-16 15:53:12
+date: 2019-09-16 15:53:00
 tags:
   - Palm Springs Homebuyer Tips
 excerpt: >-
