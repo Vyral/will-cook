@@ -21,6 +21,8 @@ youtube_code: 'https://youtu.be/GZwkM_3Qu2Y'
 
 {% include youtube.html %}
 
+There are three key reasons that you should live in a home before renovating it.
+
 I often recommend that homebuyers live in a house for awhile before they undertake large renovation or expansion projects. Now, I’m not talking about basic plumbing or electrical issues that are necessary to make a home habitable; I’m rather talking about larger renovations and expansions.
 
 Why live in a new home before renovating? Well, **there are three good reasons to consider holding off on big home improvement projects until you’ve had time to settle in:**
