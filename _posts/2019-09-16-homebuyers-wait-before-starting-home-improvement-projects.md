@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Homebuyers: Wait Before Starting Home Improvement Projects'
+title: '3 Reasons to Wait Before Renovating your New Home'
 date: 2019-09-16 15:53:00
 tags:
   - Palm Springs Homebuyer Tips
