@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 4 Steps You Must Take Before Selling
-date:
+date: 2019-09-27 16:38:44
 tags:
   - Palm Springs Home Selling Tips
 excerpt: >-
