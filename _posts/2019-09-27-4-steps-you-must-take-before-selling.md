@@ -19,7 +19,7 @@ youtube_code: 4BpO6uLVgNU
 
 {% include youtube.html %}
 
-Once you’ve decided to sell your home, make sure to take these four steps before it goes live on the market.
+<p style="text-align:center"><em>Once you’ve decided to sell your home, make sure to take these four steps before it goes live on the market.</em></p>
 
 Before you decide your home is ready to be seen by potential buyers, it’s important to take four key steps before putting it up for sale on the market to ensure it sells for its maximum value:
 
