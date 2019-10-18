@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What’s Happening in the Palm Springs Housing Market?
+title: 2019 Fall Market Update
 date: 2019-10-18 15:03:05
 tags:
   - Palm Springs Market Update
