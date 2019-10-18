@@ -9,7 +9,7 @@ enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Will+Cook/Whats+Happening+in+the+Palm+Springs+Housing+Market_.mp4
 pullquote: >-
   Our continued low rates have moved buyers off the fence and well-priced homes
-  are getting snatched up quickly
+  are getting snatched up quickly.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
