@@ -19,7 +19,7 @@ youtube_code: iuhjjrH80ww
 
 {% include youtube.html %}
 
-Here’s what you need to know about what’s going on in our local market.
+<p style="text-align:center;"><em>Here’s what you need to know about what’s going on in our local market.</em></p>
 
 For today’s market update, the first metric I’d like to discuss is our months-of-sales ratio, which gives us our absorption rate. On October 1, the months-of-sales ratio (the level of inventory divided by the average sales rate over 12 months) was 3.4 months.
 
