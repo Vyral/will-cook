@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 Tips For Buying in a Seller’s Market
-date: 2019-11-18 20:35:29
+date: 2019-11-18 20:35:00
 tags:
   - Palm Springs Homebuyer Tips
 excerpt: I’m sharing my five best tips for how to buy a home in a seller’s market.
@@ -13,13 +13,13 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/will-cook--5-tips-for-buying-in-a-sellers-market-youtube-1.jpg
 youtube_code: 0NkHub6jwlY
 ---
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>I’m sharing my five best tips for how to buy a home in a seller’s market.</em></p>
+*I’m sharing my five best tips for how to buy a home in a seller’s market.*
 
 Today I’m going to share five tips for how to buy a home in a seller’s market. November 1 had the lowest number of homes for sale in the greater Palm Springs area in recent history. At 3.8 months’ worth of sales, we remain in a firm seller’s market throughout the Coachella Valley. So how do buyers compete?
 
