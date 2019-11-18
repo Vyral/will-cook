@@ -19,7 +19,7 @@ youtube_code: 0NkHub6jwlY
 
 {% include youtube.html %}
 
-I’m sharing my five best tips for how to buy a home in a seller’s market.
+<p style="text-align:center;"><em>I’m sharing my five best tips for how to buy a home in a seller’s market.</em></p>
 
 Today I’m going to share five tips for how to buy a home in a seller’s market. November 1 had the lowest number of homes for sale in the greater Palm Springs area in recent history. At 3.8 months’ worth of sales, we remain in a firm seller’s market throughout the Coachella Valley. So how do buyers compete?
 
