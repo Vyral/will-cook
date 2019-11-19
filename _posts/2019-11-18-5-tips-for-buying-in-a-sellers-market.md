@@ -23,7 +23,7 @@ youtube_code: 0NkHub6jwlY
 
 Today I’m going to share five tips for how to buy a home in a seller’s market. November 1 had the lowest number of homes for sale in the greater Palm Springs area in recent history. At 3.8 months’ worth of sales, we remain in a firm seller’s market throughout the Coachella Valley. So how do buyers compete?
 
-**1\. Be prepared ahead of time.** Do the leg work up front, and have your finances in order so you can write an offer on a property swiftly. If you’re planning to get financing, speak to a lender ahead of time, and have your pre-approval in hand. If you’re paying cash, then the seller will ask you to present a proof of funds letter verifying that you have the money to close.&nbsp;
+**1\. Be prepared ahead of time.** Do the leg work up front, and have your finances in order so you can write an offer on a property swiftly. If you’re planning to get financing, speak to a lender ahead of time and have your pre-approval in hand. If you’re paying cash, then the seller will ask you to present a proof of funds letter verifying that you have the money to close.&nbsp;
 
 **2\. Know what you want.** Create a list of must-haves versus nice-to-haves. If you’re purchasing a property with a partner or spouse, you both must get on the same page early. Have a predetermined set of priorities that you’ve agreed upon so that you can determine which homes fit your needs the best so you can move as promptly as possible.
 
