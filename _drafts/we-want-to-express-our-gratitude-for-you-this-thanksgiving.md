@@ -18,6 +18,6 @@ youtube_code: sFU84QRiIfI
 
 {% include youtube.html %}
 
-&nbsp;
+With the holiday season upon us, we want to say we’re thankful for you.&nbsp;
 
-{% include pullquote.html %}
+The 2019 holiday season has officially begun, and we hope you’re as excited about it as we are. We want to take a moment today to express our gratitude for you this Thanksgiving. We’ve met some incredible people this past year, and we’ve had the honor of assisting many of you in accomplishing your real estate dreams. Without your support, we wouldn’t be where we are today. We hope you enjoy your Thanksgiving with your family and friends. As always, if you have any real estate-related questions, feel free to reach out to us. We’re here to help.
