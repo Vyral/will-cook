@@ -1,7 +1,7 @@
 ---
 layout: post
 title: We Want to Express Our Gratitude for You This Thanksgiving
-date:
+date: 2019-11-21 17:13:23
 tags:
   - Palm Springs Real Estate
 excerpt: 'With the holiday season upon us, we want to say we’re thankful for you.'
