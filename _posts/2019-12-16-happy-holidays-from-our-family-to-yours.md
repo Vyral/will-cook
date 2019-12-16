@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Happy Holidays, From Our Family to Yours'
-date: 2019-12-16 22:18:59
+date: 2019-12-16 22:18:00
 tags:
   - Palm Springs Real Estate
 excerpt: My team and I wish you the best this holiday season.
