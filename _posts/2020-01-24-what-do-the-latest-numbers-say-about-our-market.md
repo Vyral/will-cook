@@ -22,7 +22,7 @@ youtube_code: 'https://youtu.be/gkcLBosp8Ss'
 
 {% include youtube.html %}
 
-Here is where our Palm Springs market stands as we make our way into 2020, according to the latest statistics.
+<p style="text-align: center;"><em>Here is where our Palm Springs market stands as we make our way into 2020, according to the latest statistics.</em></p>
 
 Our local real estate market is very strong right now, and I have the latest statistics from the Desert Housing Report to prove it. If you follow along in the video above, I’ve provided four slides from this report.
 
