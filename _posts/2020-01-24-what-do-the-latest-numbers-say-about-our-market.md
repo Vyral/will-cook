@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Do the Latest Numbers Say About Our Market?
-date:
+date: 2020-01-24 21:36:24
 tags:
   - Palm Springs Real Estate
   - Palm Springs Market Update
