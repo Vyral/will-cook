@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Telltale Signs Your Home is Overpriced
-date:
+date: 2020-02-07 20:51:51
 tags:
   - Palm Springs Real Estate
 excerpt: >-
