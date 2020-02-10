@@ -19,13 +19,13 @@ youtube_code: 'https://youtu.be/FlfcW27t2DY'
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Overpricing is one of the worst mistakes you can make as a home seller. Here are three ways to tell that your price needs to come down.</em></p>
+*Overpricing is one of the worst mistakes you can make as a home seller. Here are three ways to tell that your price needs to come down.*
 
 If you’re selling your home, you need to understand that pricing properly from the very start is critical. The most common reason that homes don’t sell is because they are overpriced. Overpricing can cause damaging effects. If you overprice from the beginning, you'll end up with less money in your pocket when you do sell.&nbsp;
 
 If you do make the mistake of overpricing your home, it’s important to make adjustments quickly. How do you know it’s overpriced, though? **Here are three telltale signs:**
 
-**1\. Very few or no showings.** Excitement is a very common emotion for sellers. They are generally very happy that their home is on the market and being advertised everywhere. However, what happens when weeks have gone by and you’ve had little or no showings? The excitement turns to concern and frustration. If this sounds familiar, your home is likely overpriced. In a low inventory environment like the one we have in the Greater Palm Springs Area, it would be advisable to adjust the price in hopes of generating more activity.
+**1\. Very few or no showings.** Excitement is a very common emotion for sellers. They are generally very happy that their home is on the market and being advertised everywhere. However, what happens when weeks have gone by and you’ve had little or no showings? The excitement turns to concern and frustration. If this sounds familiar, your home is likely overpriced. In a low inventory environment like the one we have in the Greater Palm Springs area, it would be advisable to adjust the price in hopes of generating more activity.
 
 {% include pullquote.html %}
 
@@ -33,4 +33,4 @@ If you do make the mistake of overpricing your home, it’s important to make ad
 
 **3\. Your home has expired on the market.** This is the most obvious way to know your home is overpriced. If a home doesn’t sell in six months, it’s not due to lack of buyers, it’s due to incorrect pricing. Look in the mirror and realize that your home was overpriced and adjust accordingly when you relist.&nbsp;
 
-Every home has a price tag in the market. If a home’s listing price is relatively close to that price tag, it will sell and not expire. If you have any questions for me about pricing or about real estate in general, feel free to reach out via phone or email. I look forward to hearing from you soon.
+Every home has a price tag in the market. If a home’s listing price is relatively close to that price tag, it will sell and not expire. If you have any questions for me about pricing or real estate in general, feel free to reach out via phone or email. I look forward to hearing from you soon.
