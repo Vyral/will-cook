@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/FlfcW27t2DY'
 
 {% include youtube.html %}
 
-*Overpricing is one of the worst mistakes you can make as a home seller. Here are three ways to tell that your price needs to come down.*
+<p style="text-align: center;"><em>Overpricing is one of the worst mistakes you can make as a home seller. Here are three ways to tell that your price needs to come down.</em></p>
 
 If you’re selling your home, you need to understand that pricing properly from the very start is critical. The most common reason that homes don’t sell is because they are overpriced. Overpricing can cause damaging effects. If you overprice from the beginning, you'll end up with less money in your pocket when you do sell.&nbsp;
 
