@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/2020-02-07-1.jpg
-youtube_code: 'https://youtu.be/hslFN1OuMlY'
+youtube_code: 'https://youtu.be/1dWHS6Vl8oQ'
 ---
 
 {% include youtube.html %}
