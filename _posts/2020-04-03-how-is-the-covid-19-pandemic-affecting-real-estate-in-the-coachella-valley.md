@@ -21,7 +21,7 @@ youtube_code: 9Mr8oOHI2xk
 
 {% include youtube.html %}
 
-Although we’re continuing to help buyers and sellers in the wake of the coronavirus pandemic, we’re also helping people in our community outside of real estate. Here’s a quick update on what we’ve been up to.
+<p style="text-align: center;"><em>Although we’re continuing to help buyers and sellers in the wake of the coronavirus pandemic, we’re also helping people in our community outside of real estate. Here’s a quick update on what we’ve been up to.</em></p>
 
 The COVID-19 pandemic has been disrupting our daily lives for a few weeks now. Some businesses, such as restaurants, theatres , and bars, are really struggling. Others, like grocery stores and food delivery apps, are thriving. **Here’s what’s going on from a local real estate perspective.**
 
