@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Is the COVID-19 Pandemic Affecting Real Estate in the Coachella Valley?
-date:
+date: 2020-04-03 14:33:28
 tags:
   - Palm Springs Market Update
 excerpt: >-
