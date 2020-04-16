@@ -7,8 +7,8 @@ tags:
 excerpt: >-
   Yes, the news is grim, but the first step toward operating in a place of calm
   is to gather perspective and facts. Today I’m offering both.
-enclosure:
-pullquote:
+enclosure:https://vyralmarketing.s3.amazonaws.com/Will+Cook/What+Homeowners+Need+to+Know+About+the+Impending+Recession.mp4
+pullquote:Most people believe that history will show we were in a recession from April 2020 to June 2020.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -27,6 +27,8 @@ COVID-19 hit the pause button on our American economy in the middle of March. Go
 **History shows that most recessions do not negatively impact home values**, with two recent exceptions: the Gulf War recession of ‘90 to ‘91, and the Great Recession of ‘07 to ‘09. No other recessions have impacted the U.S. housing market. What are economic leaders saying about this downturn?&nbsp;
 
 Robert Dietz, chief economist with the National Association of Homebuilders stated, *“The housing sector enters this recession underbuilt rather than overbuilt. That means as the economy rebounds, which it will at some stage, housing is set to help lead the way out.”&nbsp;*
+
+{% include pullquote.html %}
 
 Ali Wolf, chief economist with Meyers Research stated, *“Last time, housing led the recession; this time, it’s poised to bring us out. This is the Great Recession for leisure, hospitality, trade, and transportation, in that this recession will feel as bad as the Great Recession did for housing.”&nbsp;*
 
