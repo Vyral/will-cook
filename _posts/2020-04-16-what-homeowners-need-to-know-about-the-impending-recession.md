@@ -40,4 +40,3 @@ Lastly, John Burns, of John Burns Consulting states, *“Historical analysis sho
 
 If we can assist you in any way and help you to have a firmer grasp on what’s happening in the real estate market, please feel free to reach out to us by phone or email. We’re always here for you.
 
-{% include pullquote.html %}
