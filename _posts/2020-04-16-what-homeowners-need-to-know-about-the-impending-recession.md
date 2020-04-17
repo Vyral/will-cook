@@ -18,7 +18,7 @@ youtube_code: ZLX4p3SpD0Y
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>POD</em></p>
+<p style="text-align: center;"><em>Yes, the news is grim, but the first step toward operating in a place of calm is to gather perspective and facts. Today I’m offering both.</em></p>
 
 I’ve been doing some research to better understand how a recession will affect real estate. According to the National Bureau of Economic Research, **a recession is defined as a significant decline in economic activity spread across the economy lasting more than a few months,** normally visible in real GDP, real income, employment, industrial production, and wholesale-retail sales.&nbsp;
 
