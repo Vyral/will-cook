@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Is the COVID-19 Pandemic Affecting Real Estate in the Coachella Valley?
-date: 2020-04-03 14:33:28
+date: 2020-04-03 14:33:00
 tags:
   - Palm Springs Market Update
 excerpt: >-
@@ -21,7 +21,7 @@ youtube_code: 9Mr8oOHI2xk
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Although we’re continuing to help buyers and sellers in the wake of the coronavirus pandemic, we’re also helping people in our community outside of real estate. Here’s a quick update on what we’ve been doing.</em></p>
+*Although we’re continuing to help buyers and sellers in the wake of the coronavirus pandemic, we’re also helping people in our community outside of real estate. Here’s a quick update on what we’ve been doing.*
 
 The COVID-19 pandemic has been disrupting our daily lives for a few weeks now. Some businesses, such as restaurants, theatres, and bars, are struggling. Others, like grocery stores and food delivery apps, are thriving. **Here’s what’s going on from a local real estate perspective.**
 
