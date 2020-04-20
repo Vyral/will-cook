@@ -8,7 +8,7 @@ excerpt: >-
   Yes, the news is grim, but the first step toward operating in a place of calm
   is to gather perspective and facts. Today I’m offering both.
 enclosure: https://vyralmarketing.s3.amazonaws.com/Will+Cook/What+Homeowners+Need+to+Know+About+the+Impending+Recession.mp4
-pullquote:Most people believe that history will show we were in a recession from April 2020 to June 2020.
+pullquote: Most people believe that history will show we were in a recession from April 2020 to June 2020.
 enclosure_type:
 enclosure_time:
 use_youtube_image: true
