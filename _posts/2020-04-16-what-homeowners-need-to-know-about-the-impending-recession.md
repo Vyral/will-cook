@@ -22,7 +22,7 @@ youtube_code: ZLX4p3SpD0Y
 
 I’ve been doing some research to better understand how a recession will affect real estate. According to the National Bureau of Economic Research, **a recession is defined as a significant decline in economic activity spread across the economy lasting more than a few months,** normally visible in real GDP, real income, employment, industrial production, and wholesale-retail sales.&nbsp;
 
-COVID-19 hit the pause button on our American economy in the middle of March. Goldman Sachs, JP Morgan, and Morgan Stanley are all calling for a deep dive in the economy in the second quarter of this year. While today we may not be in a recession by the technical definition of the word, most people believe that history will show we were in one from April to June 2020. Does that mean we’re headed for a housing crash like what we saw in 2007 through 2009?&nbsp;
+COVID-19 hit the pause button on our American economy in the middle of March. Goldman Sachs, JP Morgan, and Morgan Stanley are all predicting a deep dive in the economy in the second quarter of this year. While today we may not be in a recession by the technical definition of the word, most people believe that history will show we were in one from April to June 2020. Does that mean we’re headed for a housing crash like what we saw in 2007 through 2009?&nbsp;
 
 **History shows that most recessions do not negatively impact home values**, with two recent exceptions: the Gulf War recession of ‘90 to ‘91, and the Great Recession of ‘07 to ‘09. No other recessions have impacted the U.S. housing market. What are economic leaders saying about this downturn?&nbsp;
 
