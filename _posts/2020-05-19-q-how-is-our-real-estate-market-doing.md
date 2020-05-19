@@ -18,6 +18,6 @@ youtube_code: XzM0r0e7ltE
 
 {% include youtube.html %}
 
-With graphs and quotes, I’m showing how our current market is doing.
+<p style="text-align: center;"><em>With graphs and quotes, I’m showing how our current market is doing.</em></p>
 
 What is the pulse of our local real estate market during the pandemic? I’m sharing some national news and local data to show how our market is doing amid the health crisis. History suggests that the housing market will likely fare better through this time than the overall economy. We don’t know exactly how this will all play out, but homebuyers are beginning to come back to the market after demand declined this past month due to the coronavirus. This uptick in activity is reassuring. To learn more about our current market, watch our latest video above.
