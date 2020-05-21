@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Q: How Is Our Real Estate Market Doing?'
+title: What is the Pulse of the Palm Springs Area Market during the Pandemic?
 date: 2020-05-19 19:47:00
 tags:
   - Palm Springs Market Update
