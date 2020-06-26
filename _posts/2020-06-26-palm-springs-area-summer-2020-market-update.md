@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Q: Palm Springs Area Summer 2020 Market Update'
+title: Palm Springs Area Summer 2020 Market Update
 date: 2020-06-26 17:00:00
 tags:
   - Palm Springs Market Update
