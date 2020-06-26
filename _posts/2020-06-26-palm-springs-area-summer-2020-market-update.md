@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/your-latest-palm-springs-real-estate-market-update-yt.jpg
-youtube_code: 7h8ffDbtUTY
+youtube_code: DvcHPNUGwQE
 ---
 
 {% include youtube.html %}
