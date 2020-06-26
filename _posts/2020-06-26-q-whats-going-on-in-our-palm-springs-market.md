@@ -18,8 +18,8 @@ youtube_code: 7h8ffDbtUTY
 
 {% include youtube.html %}
 
-*Our Palm Springs market is hot; here’s what you need to know.*
-
+ <p style="text-align: center;"><em>Our Palm Springs market is hot; here’s what you need to know.</em></p>
+ 
 What’s happening in the market? Well, homes have never been more affordable thanks to crazy low interest rates. The only time the affordability index was higher was back when distressed properties dominated the market amid the housing crisis. Right now, prices are increasing; six leading authorities on the housing market produced surveys, and only one predicted a depreciation of home values—a modest dip of 0.32%. That same entity then predicted values to rise steadily in 2021 and 2022, so it seems things are headed in the right direction.&nbsp;
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to skip to topics that interest you most:&nbsp;**
