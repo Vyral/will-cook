@@ -4,7 +4,8 @@ title: 'Q: How Are We Helping Buyers Win in This Market?'
 date: 2020-08-12 13:25:41
 tags:
 excerpt: Here’s how we’re helping frustrated buyers win in this market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Will+Cook/Q-+How+Are+We+Helping+Buyers+Win+in+This+Market_.mp4
 pullquote: A lot of buyers out there are frustrated.
 enclosure_type: video/mp4
 enclosure_time:
@@ -15,7 +16,8 @@ youtube_code: WcDhKb-EPGg
 
 {% include youtube.html %}
 
-Here’s how we’re helping frustrated buyers win in this market.
+ <p style="text-align: center;"><em>
+Here’s how we’re helping frustrated buyers win in this market.</em></p>
 
 We’re in a very competitive seller’s market in the Coachella Valley and the Greater Palm Springs Area. As a result, a lot of our buyers are very frustrated with being able to find a right home or getting their offer accepted when they do.
 
