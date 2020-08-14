@@ -17,7 +17,8 @@ youtube_code: WcDhKb-EPGg
 
 {% include youtube.html %}
 
-*Here’s how we’re helping frustrated buyers win in this market.*
+ <p style="text-align: center;"><em>
+Here’s how we’re helping frustrated buyers win in this market.</em></p>
 
 We’re in a very competitive seller’s market in the Coachella Valley and the Greater Palm Springs Area. As a result, a lot of our buyers are very frustrated with being able to find the right home or getting their offer accepted when they do. We’re finding ourselves in a lot more multiple-offer situations these days and our buyers want to know, “How can I make my offer stand out?”
 
