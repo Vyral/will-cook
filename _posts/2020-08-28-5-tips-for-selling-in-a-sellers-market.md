@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Q: How Should Sellers Handle This Market?'
-date: 2020-08-28 21:22:43
+title: 5 Tips for Selling in a Sellers Market
+date: 2020-08-28 21:22:00
 tags:
   - Palm Springs Home Selling Tips
 excerpt: >-
@@ -18,7 +18,7 @@ youtube_code: WgUstWMNRZM
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Here are some of the most important things a seller can remember in this market.</em></p>
+*Here are some of the most important things a seller can remember in this market.*
 
 If you want to maximize your home sale in this seller’s market, here are the four tips you must remember:
 
