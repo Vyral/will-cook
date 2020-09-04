@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/making-the-most-of-this-market-as-a-seller-yt.jpg
-youtube_code: WgUstWMNRZM
+youtube_code: 2H8-Aj1iuCM
 ---
 
 {% include youtube.html %}
