@@ -19,7 +19,8 @@ youtube_code: 2H8-Aj1iuCM
 
 {% include youtube.html %}
 
-*Here are some of the most important things a seller can remember in this market.*
+<p style="text-align: center;"><em>Here are some of the most important things a seller can remember in this market.</em></p>
+
 
 If you want to maximize your home sale in this seller’s market, here are the five tips you must remember:
 
