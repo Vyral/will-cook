@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 5 Tips for Selling in a Sellers Market
+title: 'Q: How Should Sellers Handle This Market?'
 date: 2020-08-28 21:22:00
 tags:
   - Palm Springs Home Selling Tips
