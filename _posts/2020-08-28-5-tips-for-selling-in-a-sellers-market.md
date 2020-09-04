@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Here are some of the most important things a seller can remember in this
   market
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Will+Cook/Q-+How+Should+Sellers+Handle+This+Market_.mp4
 pullquote: Being in a seller’s market doesn’t mean you can choose any price you want.
 enclosure_type: video/mp4
 enclosure_time:
@@ -20,7 +21,7 @@ youtube_code: WgUstWMNRZM
 
 *Here are some of the most important things a seller can remember in this market.*
 
-If you want to maximize your home sale in this seller’s market, here are the four tips you must remember:
+If you want to maximize your home sale in this seller’s market, here are the five tips you must remember:
 
 **1\. Create a buzz about your home.** You want your home to hit the market with a bang and get into escrow quickly, and you’ll need professional photography to do so. Keep timing in mind, too; the best time to list your home is Thursday afternoon or Friday morning because then it’ll be front and center in the feed of every buyer who’s gearing up for a weekend full of home tours. Since there will be tons of tours of your home scheduled that first weekend, it may be best to go out of town or stay at a friend’s house. Typically, the best offers come in early, and you want to do whatever you can to allow for as many showings as possible.&nbsp;
 
@@ -30,6 +31,8 @@ If you want to maximize your home sale in this seller’s market, here are the f
 
 {% include pullquote.html %}
 
-**4\. Be careful when calling for the highest and best offers.** Asking buyers to submit their highest and best offer after receiving multiple initial offers is basically asking them to compete amongst themselves. Some savvy buyers aren’t interested in participating in such an ordeal. Just make sure you understand that asking this does carry the risk of turning some folks away. One of the tools we have available is something called a Seller Multiple Counter Offer Form, and you can use it to counter each offer individually based on the specific terms you’d like to adjust.&nbsp;
+**4\. Be careful when calling for the highest and best offers.** Asking buyers to submit their highest and best offer after receiving multiple initial offers is basically asking them to compete amongst themselves. Some savvy buyers aren’t interested in participating in such an ordeal. Just make sure you understand that asking this does carry the risk of turning some folks away. One of the tools we have available is something called a Seller Multiple Counter Offer Form, and you can use it to counter each offer individually based on the specific terms you’d like to adjust.
+
+**5\. Act quickly.** When responding to offers, have a sense of urgency—especially if you’re in a multiple-offer situation. It can be a frantic time for buyers, and sometimes they bid on several properties; if you take too long to respond, you may discover that some of your potential buyers have already moved on and are in escrow on another deal. So, be respectful of buyers’ time because it could impact your bottom line.&nbsp;
 
 I hope you found these tips beneficial, and if you’re lucky enough to be a seller right now, we’d love to help you. We’ve handled many multiple-offer situations from both the buying and selling side of things, and we can coach you through the process. Don’t hesitate to reach out via phone or email, even if you simply have some questions about this or any other real estate topic\!
