@@ -15,7 +15,7 @@ youtube_code: Pzhlu0Bie3g
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s a closer look at how the upcoming election will affect real estate.</em></p>
+*Here’s a closer look at how the upcoming election will affect real estate.*
 
 2020 will be remembered as one of the most challenging years of our lives. A global pandemic, a recession that causes historic unemployment, and a heightened level of social unrest have all changed the way we live our lives. Only the real estate market seems to be unaffected as recent forecasts show that more homes will be purchased this year than last year.
 
@@ -23,7 +23,7 @@ As we come to the end of this tumultuous year, we’re bracing for what may be t
 
 **1\. Is there a drop off in home sales during an election year?** BTIG, a research and analysis firm, looked at new home sales from 1963 to 2019 in their report titled “One house, Two House, Red House, Blue House.”
 
-They noted that in non-presidential years, there is an average decrease of 9.8% from October to November sales. This is the normal seasonality of the market. However, the data also revealed that **during election years, that decrease widens to 15%**. The report states that “this may indicate that potential homebuyers may become even more cautious in the face of national election uncertainty.”
+They noted that in non-presidential years, there is an average decrease of 9.8% from October to November sales. This is the normal seasonality of the market. However, the data also revealed that **during election years, that decrease becomes a much steeper 15%**. The report states that “this may indicate that potential homebuyers may become even more cautious in the face of national election uncertainty.”
 
 **2\. Are those sales lost forever?** The answer is no, BTIG determined. They said, “Caution is temporary, and ultimately results in deferred sales because the economy, jobs, interest rates, and consumer confidence all have far more meaningful roles in the purchasing decision than a presidential election.”
 
