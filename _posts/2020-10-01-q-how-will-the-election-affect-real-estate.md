@@ -15,7 +15,7 @@ youtube_code: Pzhlu0Bie3g
 
 {% include youtube.html %}
 
-*Here’s a closer look at how the upcoming election will affect real estate.*
+<p style="text-align: center;"><em>Here’s a closer look at how the upcoming election will affect real estate.</em></p>
 
 2020 will be remembered as one of the most challenging years of our lives. A global pandemic, a recession that causes historic unemployment, and a heightened level of social unrest have all changed the way we live our lives. Only the real estate market seems to be unaffected as recent forecasts show that more homes will be purchased this year than last year.
 
