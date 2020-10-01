@@ -3,6 +3,7 @@ layout: post
 title: 'Q: How Will the Election Affect Real Estate?'
 date: 2020-10-01 16:55:00
 tags:
+  - Palm Springs Market Update
 excerpt: Here’s a closer look at how the upcoming election will affect real estate.
 enclosure:
 pullquote: Demand isn’t lost during an election year; it’s just delayed.
