@@ -17,7 +17,7 @@ youtube_code: _jH83BjuwT4
 
 {% include youtube.html %}
 
-To find out what’s going on in a market, agents use these five indicators.
+<p style="text-align: center;"><em>To find out what’s going on in a market, agents use these five indicators.</em></p>
 
 How is the market?
 
