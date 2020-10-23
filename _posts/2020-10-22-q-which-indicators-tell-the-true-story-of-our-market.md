@@ -12,12 +12,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: _jH83BjuwT4
+youtube_code: ehIVlGiABJY
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>To find out what’s going on in a market, agents use these five indicators.</em></p>
+*To find out what’s going on in a market, agents use these five indicators.*
 
 How is the market? This is a question real estate professionals get asked on a daily basis. However, unlike the stock market, which is reported daily in the national news, real estate is hyperlocal. Thus, it’s not reported on daily. For an inexperienced real estate agent, it’s easy to answer this question based on how their business is doing. A true real estate professional, though, bases their answer (and predicts demand in pricing) on five key indicators:
 
