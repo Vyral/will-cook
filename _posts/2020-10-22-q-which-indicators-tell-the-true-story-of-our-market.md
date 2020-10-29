@@ -4,7 +4,8 @@ title: 'Q: Which Indicators Tell the True Story of Our Market?'
 date: 2020-10-22 17:58:00
 tags:
 excerpt: 'To find out what’s going on in a market, agents use these five indicators.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Will+Cook/Q-+Which+Indicators+Tell+the+True+Story+of+Our+Market_+(1).mp4
 pullquote: >-
   If there is a lot of volume, activity, and inventory, but demand is low, the
   average sales price is probably lower than the average list price.
@@ -17,7 +18,7 @@ youtube_code: ehIVlGiABJY
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>To find out what’s going on in a market, agents use these five indicators.</em></p>
+*To find out what’s going on in a market, agents use these five indicators.*
 
 How is the market? This is a question real estate professionals get asked on a daily basis. However, unlike the stock market, which is reported daily in the national news, real estate is hyperlocal. Thus, it’s not reported on daily. For an inexperienced real estate agent, it’s easy to answer this question based on how their business is doing. A true real estate professional, though, bases their answer (and predicts demand in pricing) on five key indicators:
 
