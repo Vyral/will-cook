@@ -20,7 +20,7 @@ youtube_code: N_0VvIIrN0Q
 
 {% include youtube.html %}
 
-Here’s what has been going on in our greater Palm Springs area real estate market.
+<p style="text-align: center;"><em>Here’s what has been going on in our greater Palm Springs area real estate market.</em></p>
 
 In general, we have continued to be in a very strong seller’s market. In the video above, you can see a slide that shows the correlation between the days on market and the months of sales. The red line, representing months of sales, is the ratio of inventory divided by the sales rate, and it technically measures how long it has been taking to sell the entire inventory at the current sales rate.&nbsp;
 
