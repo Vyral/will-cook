@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'This Thanksgiving, We’re Thankful for You'
-date: 2020-11-17 22:19:23
+date: 2020-11-17 22:19:00
 tags:
   - Palm Springs Real Estate
 excerpt: We hope that you and yours have a safe and wonderful Thanksgiving holiday.
@@ -10,8 +10,8 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/this-thanksgiving-were-thankful-for-you-yt.jpg
-youtube_code:
+youtube_alternate_image:
+youtube_code: TtaLiUTnO-Q
 ---
 
 {% include youtube.html %}
