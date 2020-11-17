@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Here’s what has been going on in our greater Palm Springs area real estate
   market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Will+Cook/Market+Update_+7+Valley+Cities+Log+Double-Digit+Price+Increases.mp4
 pullquote: >-
   Our continuing low inventory numbers point to now being a great time to
   consider selling your home.
@@ -20,7 +21,7 @@ youtube_code: N_0VvIIrN0Q
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s what has been going on in our greater Palm Springs area real estate market.</em></p>
+*Here’s what has been going on in our greater Palm Springs area real estate market.*
 
 In general, we have continued to be in a very strong seller’s market. In the video above, you can see a slide that shows the correlation between the days on market and the months of sales. The red line, representing months of sales, is the ratio of inventory divided by the sales rate, and it technically measures how long it has been taking to sell the entire inventory at the current sales rate.&nbsp;
 
