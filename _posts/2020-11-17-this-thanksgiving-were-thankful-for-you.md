@@ -5,7 +5,8 @@ date: 2020-11-17 22:19:00
 tags:
   - Palm Springs Real Estate
 excerpt: We hope that you and yours have a safe and wonderful Thanksgiving holiday.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Will+Cook/Have+a+Very+Happy+Thanksgiving.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
