@@ -15,7 +15,7 @@ youtube_code: m2xuMxsJBhI
 
 {% include youtube.html %}
 
-*The holiday season has officially arrived.*
+<p style="text-align: center;"><em>The holiday season has officially arrived.</em></p>
 
 Happy holidays to you\!
 
