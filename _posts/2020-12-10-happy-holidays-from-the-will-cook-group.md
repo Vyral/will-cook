@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Happy Holidays from the Will Cook Group!
-date: 2020-12-10 01:37:28
+title: Happy Holidays From the Will Cook Group!
+date: 2020-12-10 01:37:00
 tags:
 excerpt: The holiday season has officially arrived.
 enclosure:
@@ -15,9 +15,9 @@ youtube_code: m2xuMxsJBhI
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>The holiday season has officially arrived.</em></p>
+*The holiday season has officially arrived.*
 
-Happy holidays to you!
+Happy holidays to you\!
 
 The holiday season has officially arrived. We hope you enjoy this wonderful time of year and make some fantastic memories.
 
@@ -25,4 +25,4 @@ The holiday season has officially arrived. We hope you enjoy this wonderful time
 
 This may be a busy time of year, but we are always here to help you and answer any questions you may have. Give us a call or reply to this email and we’d love to help out.
 
-In case we don’t hear from you until 2021, have a happy New Year!
+In case we don’t hear from you until 2021, have a happy New Year\!
