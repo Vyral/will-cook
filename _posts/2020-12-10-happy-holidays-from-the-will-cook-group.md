@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Happy Holidays From the Will Cook Group!
-date: 2020-12-10 01:37:00
+date: 2020-12-21 09:00:00
 tags:
 excerpt: The holiday season has officially arrived.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Will+Cook/Happy+Holidays+From+the+Will+Cook+Group!.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
