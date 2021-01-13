@@ -20,7 +20,7 @@ youtube_code: 7Aun5vphUKs
 
 {% include youtube.html %}
 
-Here’s what’s been going on in our greater Palm Springs area real estate market.
+<p style="text-align: center;"><em>Here’s what’s been going on in our greater Palm Springs area real estate market.</em></p>
 
 In the greater Palm Springs area, we continue to be in a very strong seller’s market. To illustrate that, we refer you to the graph shown at 0:31 in the video above. The graph plots the percentage of sales over the last 90 days that sold above asking price. Since a home will only sell above the asking price if there are multiple bidders, it’s an indirect measure of how many bidding wars are breaking out.&nbsp;
 
