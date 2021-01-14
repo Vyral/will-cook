@@ -1,13 +1,13 @@
 ---
 layout: post
 title: What’s Happening in the Palm Springs Area Market?
-date: 2021-01-13 16:34:42
+date: 2021-01-14 09:34:42
 tags:
   - Palm Springs Market Update
 excerpt: >-
   Here’s what’s been going on in our greater Palm Springs area real estate
   market.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Will+Cook/What%E2%80%99s+Happening+in+the+Palm+Springs+Area+Market_.mp4
 pullquote: >-
   Our continuously lower inventory numbers and incredibly high demand make now a
   great time to consider selling your Palm Springs area home.
