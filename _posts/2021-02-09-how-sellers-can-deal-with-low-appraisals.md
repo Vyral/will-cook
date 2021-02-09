@@ -20,7 +20,7 @@ youtube_code: 9JxU3g_waTQ
 
 {% include youtube.html %}
 
-If you’re a seller, here are three ways to rectify a low appraisal.&nbsp;
+<p style="text-align: center;"><em>If you’re a seller, here are three ways to rectify a low appraisal.</em></p>
 
 We’re in a very strong seller’s market in the Greater Palm Springs area, and it’s not unusual for a home’s appraised price to not equal its contract price, especially if the property’s gone into escrow after a multiple-offer situation where buyers may have been making offers over asking price. When this occurs, there are three things you can do to rectify the situation as a seller:
 
