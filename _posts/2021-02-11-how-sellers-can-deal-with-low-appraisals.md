@@ -1,12 +1,13 @@
 ---
 layout: post
 title: How Sellers Can Deal With Low Appraisals
-date: 2021-02-09 09:00:00
+date: 2021-02-11 09:00:00
 tags:
   - Palm Springs Home Selling Tips
   - Palm Springs Real Estate
 excerpt: 'If you’re a seller, here are three ways to rectify a low appraisal.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Will+Cook/How+Sellers+Can+Deal+With+Low+Appraisals.mp4
 pullquote: >-
   Since 60% of all closings in Coachella Valley are cash deals, appraisers
   sometimes have a hard time finding the necessary comps to support a price
@@ -20,7 +21,7 @@ youtube_code: 9JxU3g_waTQ
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>If you’re a seller, here are three ways to rectify a low appraisal.</em></p>
+*If you’re a seller, here are three ways to rectify a low appraisal.*
 
 We’re in a very strong seller’s market in the Greater Palm Springs area, and it’s not unusual for a home’s appraised price to not equal its contract price, especially if the property’s gone into escrow after a multiple-offer situation where buyers may have been making offers over asking price. When this occurs, there are three things you can do to rectify the situation as a seller:
 
