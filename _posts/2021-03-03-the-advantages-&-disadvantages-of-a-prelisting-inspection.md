@@ -22,13 +22,13 @@ youtube_code: JSFR9y1ILtc
 
 Is a pre-listing home inspection—which is basically an inspection done prior to listing a home on the market—beneficial to sellers or not? My answer is maybe. There are several advantages and disadvantages to consider. 
 
-*Advantages:*
+**Advantages:**
 
-You determine the condition of the home. This means there will be no surprises. If there are any major defects you need to address prior to listing the home, you’d be aware of them up front. If anything comes up in the inspection that you won’t be willing to address, you can reflect that in your marketing price and communicate it to any potential buyers who look at it once it’s listed. 
-You improve buyer confidence. You’ll attract more buyers, fewer contingencies, and create a solid foundation for negotiation. Buyers will know exactly what they’re getting into when starting negotiations because they’ll have already had the necessary information on the home’s condition. 
-You can have a smoother transaction. The buyer already knows the condition of the home, so you may not be faced with renegotiating price, credits, or repairs. This gives you peace of mind when entering into a transaction with a buyer. 
+**1.** You determine the condition of the home. This means there will be no surprises. If there are any major defects you need to address prior to listing the home, you’d be aware of them up front. If anything comes up in the inspection that you won’t be willing to address, you can reflect that in your marketing price and communicate it to any potential buyers who look at it once it’s listed. 
+**2.** You improve buyer confidence. You’ll attract more buyers, fewer contingencies, and create a solid foundation for negotiation. Buyers will know exactly what they’re getting into when starting negotiations because they’ll have already had the necessary information on the home’s condition. 
+**3.** You can have a smoother transaction. The buyer already knows the condition of the home, so you may not be faced with renegotiating price, credits, or repairs. This gives you peace of mind when entering into a transaction with a buyer. 
 
-Disadvantages:
+**Disadvantages:**
 
 You have to cover the cost instead of the buyer. A home inspection is typically a cost paid by the buyer during the transaction. If you as the seller order the inspection prior to listing the home on the market, you’ll have to take on the cost. 
 You may find previously unknown issues in the home that you didn’t anticipate having to address or disclose. 
