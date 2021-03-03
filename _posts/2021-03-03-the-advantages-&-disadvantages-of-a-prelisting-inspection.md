@@ -22,7 +22,7 @@ youtube_code: JSFR9y1ILtc
 
 Is a pre-listing home inspection—which is basically an inspection done prior to listing a home on the market—beneficial to sellers or not? My answer is maybe. There are several advantages and disadvantages to consider. 
 
-Advantages:
+*Advantages:*
 
 You determine the condition of the home. This means there will be no surprises. If there are any major defects you need to address prior to listing the home, you’d be aware of them up front. If anything comes up in the inspection that you won’t be willing to address, you can reflect that in your marketing price and communicate it to any potential buyers who look at it once it’s listed. 
 You improve buyer confidence. You’ll attract more buyers, fewer contingencies, and create a solid foundation for negotiation. Buyers will know exactly what they’re getting into when starting negotiations because they’ll have already had the necessary information on the home’s condition. 
