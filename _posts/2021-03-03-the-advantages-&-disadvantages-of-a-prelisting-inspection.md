@@ -20,11 +20,11 @@ youtube_code: JSFR9y1ILtc
 
 <p style="text-align: center;"><em>Here’s what to consider if you’re thinking of doing a pre-listing inspection.</em></p>
 
-Is a pre-listing home inspection—which is basically an inspection done prior to listing a home on the market—beneficial to sellers or not? My answer is maybe. There are several advantages and disadvantages to consider. 
+Is a pre-listing home inspection—which is an inspection done prior to listing a home on the market—beneficial to sellers or not? My answer is maybe. There are several advantages and disadvantages to consider. 
 
 **Advantages:**
 
-**1.** You determine the condition of the home. This means there will be no surprises. If there are any major defects you need to address prior to listing the home, you’d be aware of them up front. If anything comes up in the inspection that you won’t be willing to address, you can reflect that in your marketing price and communicate it to any potential buyers who look at it once it’s listed. 
+**1.** You determine the condition of the home. This means there will be no surprises. If there are any major defects you need to address before listing the home, you’d be aware of them up front. If anything comes up in the inspection that you won’t be willing to address, you can reflect that in your marketing price and communicate it to any potential buyers who look at it once it’s listed. 
 
 **2.** You improve buyer confidence. You’ll attract more buyers, fewer contingencies, and create a solid foundation for negotiation. Buyers will know exactly what they’re getting into when starting negotiations because they’ll have already had the necessary information on the home’s condition. 
 
@@ -36,7 +36,7 @@ Is a pre-listing home inspection—which is basically an inspection done prior t
 
 **2.** You may find previously unknown issues in the home that you didn’t anticipate having to address or disclose. 
 
-**3.** There are disclosure requirements regarding the findings in the inspection report. In California, we have very strict disclosure laws, and sometimes an inspection report will identify problems that read much worse than they actually are. Regardless, you’ll be obligated to disclose all of those issues, and the easiest way to do that is share the inspection report with any potential buyers.
+**3.** There are disclosure requirements regarding the findings in the inspection report. In California, we have very strict disclosure laws, and sometimes an inspection report will identify problems that read much worse than they actually are. Regardless, you’ll be obligated to disclose all of those issues, and the easiest way to do that is to share the inspection report with any potential buyers.
 
 If you’re trying to decide whether to do a pre-listing inspection or not, give me a call and I’d be happy to discuss your situation. If you have any other real estate questions, feel free to reach out to me as well. I’d love to hear from you! 
 
