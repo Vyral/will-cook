@@ -1,13 +1,13 @@
 ---
 layout: post
 title: The Advantages & Disadvantages of a Pre-Listing Inspection
-date: 2021-03-03 08:00:00
+date: 2021-03-09 08:00:00
 tags:
   - Palm Springs Home Selling Tips
   - Palm Springs Real Estate
 excerpt: 'Here’s what to consider if you’re thinking of doing a pre-listing inspection.'
 enclosure: >-
- 
+ https://vyralmarketing.s3.amazonaws.com/Will+Cook/The+Advantages+%26+Disadvantages+of+a+Pre-Listing+Inspection.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
