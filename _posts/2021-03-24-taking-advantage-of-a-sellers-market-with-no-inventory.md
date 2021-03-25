@@ -26,7 +26,7 @@ How do you take advantage of this? By selling. There are three ways in which you
 
 **2\. Close quickly and leaseback.** A leaseback means the buyer will let you stay in the home for some extra time while you find your new home. We’ve been able to negotiate free leasebacks for up to 90 days for our clients, which is great news for sellers who also need to buy.&nbsp;
 
-**3\. Make your sale conditional on finding a replacement property.** The SPRD (Seller’s Purchase of Replacement Property) form gives you a certain amount of time to identify a property and negotiate a closing that will happen right after the sale of your home.
+**3\. Make your sale conditional on finding a replacement property.** The SPRP (Seller’s Purchase of Replacement Property) form gives you a certain amount of time to identify a property and negotiate a closing that will happen right after the sale of your home.
 
 {% include pullquote.html %}
 
