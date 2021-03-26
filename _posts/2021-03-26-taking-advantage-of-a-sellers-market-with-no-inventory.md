@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Taking Advantage of a Seller’s Market With No Inventory
-date: 2021-03-24 09:00:00
+date: 2021-03-26 09:00:00
 tags:
   - Palm Springs Home Selling Tips
   - Palm Springs Real Estate
 excerpt: Here are three strategies to help you win as a buyer and seller right now.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Will+Cook/Taking+Advantage+of+a+Seller%E2%80%99s+Market+With+No+Inventory.mp4
 pullquote: We’ve been able to negotiate free leasebacks of up to 90 days.
 enclosure_type: video/mp4
 enclosure_time:
