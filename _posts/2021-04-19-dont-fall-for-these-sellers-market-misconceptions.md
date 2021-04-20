@@ -28,7 +28,7 @@ If you’ve been paying attention to real estate news, then you know we’re in 
 
 **2\. The condition of the home doesn’t matter.** You can’t simply put a home in any condition on the market and expect it to sell for top dollar. Usually, home condition drives prices. When I meet with clients to discuss listing their house, we walk room by room, and I point out staging tips or needed repairs or updates. My goal is to ensure they get the highest amount of money in the least amount of time.&nbsp;
 
-Sometimes it makes sense to sell a property as is and sometimes it doesn’t. However, before you start making renovations, it’s crucial to get a trusted real estate agent involved who understands the current market and what buyers want right now.&nbsp;
+Sometimes it makes sense to sell a property as-is and sometimes it doesn’t. However, before you start making renovations, it’s crucial to get a trusted real estate agent involved who understands the current market and what buyers want right now.&nbsp;
 
 **3\. Price doesn’t matter.** In truth, pricing is critical. Buyers are concerned they’re overpaying for homes, so if you set your price too high from the beginning, buyers who have been in the market for a long time and are fatigued will be reluctant to bid on your house. Sometimes overpriced properties sit on the market, then sell for less than they would have if they had just been priced correctly from the start.&nbsp;
 
