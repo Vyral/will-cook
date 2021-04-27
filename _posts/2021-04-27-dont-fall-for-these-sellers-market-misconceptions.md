@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Don’t Fall for These Seller’s Market Misconceptions
-date: 2021-04-19 09:00:00
+date: 2021-04-27 09:00:00
 tags:
   - Palm Springs Homebuyer Tips
   - Palm Springs Real Estate
 excerpt: Here are four misconceptions about seller’s markets you shouldn’t believe.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Will+Cook/Don%E2%80%99t+Fall+for+These+Seller%E2%80%99s+Market+Misconceptions.mp4
 pullquote: >-
   It’s crucial to hire a trusted real estate agent who understands the current
   market.
