@@ -38,4 +38,4 @@ Today I’m going to give you an update on our spring real estate market. Record
 
 6:22 — What this means for sellers
 
-If you have any questions about your specific situation, I’d love to have a conversation with you. Please feel free to give me a call, a text, or an email. Additionally, if you have any other real estate related topics or questions that I can answer, please also feel free to reach out to me.
+If you have any questions about your specific situation, I’d love to have a conversation with you. Please feel free to give me a call, a text, or an email. Additionally, if you have any other real estate-related topics or questions that I can answer, please feel free to reach out to me.
