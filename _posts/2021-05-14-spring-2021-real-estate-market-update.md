@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Spring 2021 Real Estate Market Update
-date: 2021-05-12 09:00:00
+date: 2021-05-14 09:00:00
 tags:
   - Palm Springs Market Update
   - Palm Springs Real Estate
 excerpt: I’m here to give you the details and update you on our spring market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Will+Cook/Spring+2021+Real+Estate+Market+Update.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
