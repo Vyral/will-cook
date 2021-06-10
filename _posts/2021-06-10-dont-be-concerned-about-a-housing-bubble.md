@@ -5,7 +5,8 @@ date: 2021-06-10 07:00:00
 tags:
   - Palm Springs Market Update
 excerpt: The numbers indicate we’re not in a housing bubble.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Will+Cook/Don%E2%80%99t+Be+Concerned+About+a+Housing+Bubble.mp4
 pullquote: >-
   If you’re interested in purchasing a house, now might be the time to act so
   that you don’t have to pay that additional 6% to 7% in the next year.
