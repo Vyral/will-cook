@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Don’t Be Concerned About a Housing Bubble
-date: 2021-06-10 11:59:00
+date: 2021-06-10 07:00:00
 tags:
   - Palm Springs Market Update
 excerpt: The numbers indicate we’re not in a housing bubble.
@@ -15,10 +15,6 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code:
 ---
-{% include youtube.html %}
-
-{% include excerpt.html %}
-
 Are we in a housing bubble? Is the market going to crash?
 
 This seems to be something I’m getting asked about a lot these days. While I don’t have a crystal ball and can’t definitively answer these questions, I can point to some information I can share with you that would indicate we’re not in a housing bubble.&nbsp;
