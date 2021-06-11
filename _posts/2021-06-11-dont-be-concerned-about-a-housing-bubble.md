@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Don’t Be Concerned About a Housing Bubble
-date: 2021-06-10 07:00:00
+date: 2021-06-11 07:00:00
 tags:
   - Palm Springs Market Update
 excerpt: The numbers indicate we’re not in a housing bubble.
