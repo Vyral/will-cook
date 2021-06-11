@@ -22,7 +22,7 @@ youtube_code: HU56Kox-iHU
 
 Are we in a housing bubble? Is the market going to crash?
 
-This seems to be something I’m getting asked about a lot these days. While I don’t have a crystal ball and can’t definitively answer these questions, I can point to some information I can share with you that would indicate we’re not in a housing bubble.&nbsp;
+This seems to be something I’m getting asked about a lot these days. While I don’t have a crystal ball and can’t definitively answer these questions, I can share some information that would indicate we’re not in a housing bubble.&nbsp;
 
 The first key to remember is that **the last market crash from 2005 to 2008 was built on predatory lending.** Lending standards were very loose back then. However, with the passing of the Dodd-Frank Act and the new regulations formed by the Department of Housing and Urban Development, it’s much more difficult to get a loan. Lenders nowadays check your down payment, debt-to-income ratio, and have very strict standards for giving loans.&nbsp;
 
