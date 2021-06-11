@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Don’t Be Concerned About a Housing Bubble
+title: Are We In a Housing Bubble in the Greater Palm Springs Area?
 date: 2021-06-11 07:00:00
 tags:
   - Palm Springs Market Update
