@@ -1,18 +1,19 @@
 ---
 layout: post
-title: Should You Jump Into the Market or Wait?
+title: Is This a Good Time to Buy a Home?
 date: 2021-07-06 00:00:00
 tags:
   - Palm Springs Homebuyer Tips
   - Palm Springs Market Update
 excerpt: Is the current market affordable, and is it a good time to buy?
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Will+Cook/Palm+Springs+Real+Estate+Agent_.mp4
 pullquote: Affordability is likely to worsen before it improves.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/is-the-market-affordable-yt.jpg
-youtube_code: Mogs5cnD52M
+youtube_code: xgkzMhVCnDI
 ---
 {% include youtube.html %}
 
