@@ -6,14 +6,13 @@ tags:
   - Palm Springs Homebuyer Tips
   - Palm Springs Market Update
 excerpt: Is the current market affordable, and is it a good time to buy?
-enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Will+Cook/Should+You+Jump+Into+the+Market+or+Wait_.mp4
+enclosure:
 pullquote: Affordability is likely to worsen before it improves.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/is-the-market-affordable-yt.jpg
-youtube_code: J20BQqP6atI
+youtube_code: Mogs5cnD52M
 ---
 {% include youtube.html %}
 
@@ -23,7 +22,7 @@ Is it a good time to buy a home in today's housing market? The power lies in the
 
 Does this mean it's a bad time to buy a home? Should a buyer wait for the housing market to cool off or jump in now before affordability declines even further?
 
-Buying a home is both a financial and lifestyle decision. If an individual or a family has made the lifestyle decision to buy, then it becomes a financial question. Will affordability decline in the months to come? If so, it may be a good time to buy before things get worse. However, if buyers start to back off, lowering the likelihood of bidding wars, causing house prices to moderate and affordability to bounce back, you may want to consider waiting.
+Buying a home is both a financial and lifestyle decision. If an individual or a family has made the lifestyle decision to buy, then it becomes a financial question. Will affordability decline in the months to come? If so, it may be a good time to buy before things get worse. However, if buyers start to back off, thereby lowering the likelihood of bidding wars, causing house prices to moderate, and affordability to bounce back, you may want to consider waiting.
 
 **Shifts in housing supply or buyer demand can affect affordability.** If supply increases and meets demand in the middle, then house prices will moderate. Unfortunately, while inventory has increased slightly in recent weeks, it remains at near historic lows and is not enough to compensate for the decade of underbuilding. It will take years for the supply to catch up to the demand. In the meantime, any new housing inventory will be quickly bought due to existing demand, so significant housing relief is unlikely in the near future.
 
