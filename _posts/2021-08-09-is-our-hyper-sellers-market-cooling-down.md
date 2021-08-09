@@ -31,11 +31,11 @@ Next, at 1:55 in the video above, you’ll see the monthly showing time index. T
 
 1. Record price appreciation
 2. Extremely low inventory
-3. Record high percentage of sales over list price
-4. Record low days on market
+3. Record-high percentage of sales over list price
+4. Record-low days on market
 5. Historically low mortgage rates
 
-The final graph at 2:59 above shows the months’ supply of homes for sales going back to 1999. With supplies hovering between one and two months of supply, **we’re nowhere near being in a buyer’s market, but there has been a small uptick in that direction.** Don’t count on the market normalizing anytime soon, but we may see a slight cooldown on this frenzied market that we’ve experienced over the last year and a half.
+The final graph at 2:59 above shows the months supply of homes for sale going back to 1999. With supplies hovering between one and two months of supply, **we’re nowhere near being in a buyer’s market, but there has been a small uptick in that direction.** Don’t count on the market normalizing anytime soon, but we may see a slight cooldown on this frenzied market that we’ve experienced over the last year and a half.
 
 If you’re a buyer, we would love to help you navigate this market. You need a trusted advisor at your side to get you through your next home purchase. If you’re a seller, note that while the market still favors sellers, things are beginning to trend slightly towards buyers. That means there’s no better time to sell your home for top dollar.
 
