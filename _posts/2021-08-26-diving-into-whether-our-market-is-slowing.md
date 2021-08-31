@@ -7,19 +7,19 @@ tags:
   - Palm Springs Real Estate
 excerpt: I’m going deep into whether or not our market is slowing down somewhat.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Will+Cook/Palm+Springs+Real+Estate+Agent_+is+the+market+slowing+down.mp4
+  https://vyralmarketing.s3.amazonaws.com/Will+Cook/Palm+Springs+Real+Estate+Agent_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /download-1.jpg
-youtube_code: MxNflnaIzvg
+youtube_code: fm5Zv5Eq0Jc
 ---
 {% include youtube.html %}
 
 {% include excerpt.html %}
 
-Is our real estate market slowing down somewhat? I’ll be doing a deep dive into answering that question today. Many factors go into assessing how the market’s doing, and I’ll be discussing the main ones. The question of whether our market is slowing is a difficult one to answer due to a few considerations.&nbsp;
+Is our real estate market slowing down somewhat? I’ll be doing a deep dive into answering that question today. Many factors go into assessing how the market’s doing, and I’ll be discussing the main ones. The question of whether our market is slowing is a difficult one to answer due to a few considerations.
 
 **Feel free to watch the full message above or use these timestamps that will direct you to various points in the video:**
 
