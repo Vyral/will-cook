@@ -18,7 +18,7 @@ youtube_code: oOVLoSNEBws
 
 {% include excerpt.html %}
 
-Today we wanted to give you a fall update for our local Coachella Valley real estate market. Record-low inventory and record-high prices are the two conditions causing every valley city to experience record-high prices. There’s a lot more detail to dig into around why and what this means for both buyers and sellers.
+Today we wanted to give you a fall update for our local Coachella Valley real estate market. Record-low inventory and record-high prices are the two conditions causing every Valley city to experience record-high prices. There are a lot more detail to dig into around why and what this means for both buyers and sellers.
 
 **You can watch the full message above or skip to topics that interest you using the timestamps provided below for your convenience:**
 
@@ -26,13 +26,13 @@ Today we wanted to give you a fall update for our local Coachella Valley real es
 
 1:07 — Total inventory in the valley
 
-1:38&nbsp; — Every city has shown over 20% year over year price gain
+1:38&nbsp; — Every city has shown over 20% year-over-year price gain
 
 2:15 — Our months of sales ratios
 
 2:52 — October 1 months of sales by city and the median value
 
-3:41 — The median days in the market throughout the valley
+3:41 — The median days in the market throughout the Valley
 
 4:05 — The three month average of total sales
 
