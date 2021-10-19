@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How is Our Coachella Valley Market Doing?
+title: How is our Palm Springs Area Market Doing?
 date: 2021-10-18 00:00:00
 tags:
     - Palm Springs Market Update
@@ -11,7 +11,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/will-cook-ss-yt.jpg
+youtube_alternate_image:
 youtube_code: oOVLoSNEBws
 ---
 {% include youtube.html %}
