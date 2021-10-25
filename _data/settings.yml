@@ -10,7 +10,7 @@ description: >-
 show_custom_links: true
 custom_links:
   - title: Our Listings
-    url: 'https://www.zillow.com/homes/for_sale/5673595_agent_list/0_mmm/'
+    url: 'https://www.palmspringsarea.properties/index.php?showagency=1#rslt'
   - title: About
     url: 'http://will.palmspringsarea.properties/agents/Will+Cook'
 client:
