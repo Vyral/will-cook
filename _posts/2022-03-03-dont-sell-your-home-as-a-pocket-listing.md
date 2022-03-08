@@ -6,7 +6,8 @@ tags:
   - Palm Springs Home Selling Tips
   - Palm Springs Real Estate
 excerpt: Here’s why I tend to discourage sellers from listing homes as pocket listings.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Will+Cook/Pocket+Listings+and+Why+They+Are+Bad+for+Sellers.mp4
 pullquote: >-
   Holding a home as a pocket listing limits how many buyers see it, which
   reduces the price you’re likely to get when you sell.
