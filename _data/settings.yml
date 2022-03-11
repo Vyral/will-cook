@@ -76,7 +76,7 @@ sidebar_CTA:
     CTA_url: >-
       http://will.palmspringsarea.properties/sell.php?town=city%3APalm+Springs&ppc=Video_Blog_Seller_Home_Value&addht=Video_Blog_Seller_Home_Value
 second_sidebar_CTA:
-  - CTA_image_path2: /img/cta-images/005.jpg
+  - CTA_image_path2: /img/cta-images/large.jpg
     CTA_title2: Looking for a Palm Springs Home?
     CTA_text2: Search the entire MLS for your Palm Springs home.
     CTA_link_text2: Search the MLS
