@@ -10,19 +10,49 @@ description: >-
 show_custom_links: true
 custom_links:
   - title: Our Listings
-    url: 'https://www.palmspringsarea.properties/index.php?showagency=1#rslt'
+    url: https://www.palmspringsarea.properties/index.php?showagency=1#rslt
   - title: About
-    url: 'http://will.palmspringsarea.properties/agents/Will+Cook'
+    url: http://will.palmspringsarea.properties/agents/Will+Cook
 client:
   name: Will Cook
   title: Associate Broker/Team Leader of WILL COOK GROUP
   license_number: 'CA BRE #01879277'
   about_markdown: >-
-   Ranked in the top 1% of all agents valley wide and named one of the Palm Springs Life Top Realtors for 2019 and 2020, Will is an Associate Broker/Team Leader of the WILL COOK GROUP with Keller Williams Luxury Homes. A native of Baton Rouge, LA, Will attended graduate school in Boston and worked as a Medical Software Project Director focused on managing client expectations through sophisticated software implementation projects for many years. Will’s experience managing large-scale projects in the corporate world has suited his transition to real estate over 19 years ago. Will’s mission has been to use integrity and accountability to exceed his client's expectations. He has worked in the luxury markets of Boston and Miami Beach and has also owned his own real estate firm in Louisiana. Presently, Will is focused on the luxury markets of Palm Springs, Rancho Mirage, Palm Desert, Indian Wells and La Quinta. While most of Will’s experience has been marketing luxury homes and estates in gated and non-gated communities; he is equally as comfortable educating first time buyers and real estate investors. Will has been a multi-year, multi-million dollar producer and he understands the importance of acting as a focused and trusted adviser with each of his clients. He has been told that he is an effective communicator, skilled negotiator, and an excellent market resource for any buyer or seller. Will and his team understand what it takes to market and sell unique luxury homes and estates. He loves what he does and we think that makes a difference.
+    Ranked in the top 1% of all agents valley-wide and listed as a Palm Springs
+    Life Top Realtor for 2019, 2020, and 2021, Will is an Associate Broker and
+    Team Leader of the WILL COOK GROUP with Keller Williams Luxury Homes.
+
+
+    A native of Baton Rouge, LA, Will attended graduate school in Boston and
+    worked as a Medical Software Project Director focused on managing client
+    expectations through sophisticated software implementation projects for many
+    years. Will's experience managing large-scale projects in the corporate
+    world has suited his transition to real estate over 19 years ago.
+
+
+    Will's mission has been to use integrity and accountability to exceed his
+    client's expectations. Besides The Greater Palm Springs Area, Will has
+    worked in the luxury markets of Boston and Miami Beach and has also owned
+    his own real estate firm in Louisiana.
+
+
+    While most of Will's experience has been marketing luxury homes and estates
+    in gated and non-gated communities; he is equally as comfortable educating
+    first-time buyers and real estate investors. Will has been a multi-year,
+    multi-million dollar producer and he understands the importance of acting as
+    a focused and trusted adviser with each of his clients. He has been told
+    that he is an effective communicator, skilled negotiator, and an excellent
+    market resource for any buyer or seller.
+
+
+    As expert real estate advisers serving the Greater Palm Springs Area real
+    estate market, Will and his team understand what it takes to market and sell
+    unique luxury homes and estates and they would love to have the opportunity
+    to earn your business\!
   market: Palm Springs
   brand: Will Cook Group
   brokerage: Keller Williams Luxury Homes
-  address: '435 N Palm Canyon<br>Palm Springs, CA 92262'
+  address: 435 N Palm Canyon<br>Palm Springs, CA 92262
   phone: 760-565-5714
   phone_type:
   phone2:
@@ -55,26 +85,26 @@ second_sidebar_CTA:
 lender:
   show_section: false
   header_text: Preferred Lender
-  headshot_path: 'http://fillmurray.com/200/200'
+  headshot_path: http://fillmurray.com/200/200
   logo_path: /img/logo.png
   logo_path_2:
   name: Bill Murray
   brand: Lender Co.
   phone: 555-555-5555
   email: bill@murray.com
-  url: 'http://eyegoop.com'
+  url: http://eyegoop.com
 socials:
   review_sm_icons: false
-  facebook_url: 'https://www.facebook.com/WillCookGroup'
-  linkedin_url: 'https://www.linkedin.com/in/willcookgroup'
-  youtube_url: 'https://www.youtube.com/channel/UCQUFJyRnqS-69-vgsq1f-1g'
-  twitter_url: 'http://www.twitter.com/willcookgroup'
+  facebook_url: https://www.facebook.com/WillCookGroup
+  linkedin_url: https://www.linkedin.com/in/willcookgroup
+  youtube_url: https://www.youtube.com/channel/UCQUFJyRnqS-69-vgsq1f-1g
+  twitter_url: http://www.twitter.com/willcookgroup
   instagram_url:
   pinterest_url:
-  zillow_url: 'http://www.zillow.com/profile/WillCookGroup/'
+  zillow_url: http://www.zillow.com/profile/WillCookGroup/
   trulia_url: >-
     http://www.trulia.com/profile/will-cook-agent-palm-springs-ca-365260/overview
-  yelp_url: 'http://www.yelp.com/biz/will-cook-group-palm-springs-2'
+  yelp_url: http://www.yelp.com/biz/will-cook-group-palm-springs-2
   podcast_url: >-
     https://podcasts.apple.com/us/podcast/palm-springs-real-estate-podcast-with-will-cook/id1479470351
 podcast:
@@ -123,8 +153,8 @@ buttons:
   button_padding_width_number: 10
   button_padding_height_number: 15
   button_border_color: '#ffffff'
-  button_background_color: 'rgba(0, 0, 0, 0)'
+  button_background_color: rgba(0, 0, 0, 0)
   button_text_color: '#123456'
   secondary_button_border_color: '#ffffff'
-  secondary_button_background_color: 'rgba(0, 0, 0, 0)'
+  secondary_button_background_color: rgba(0, 0, 0, 0)
   secondary_button_text_color: '#ffffff'
