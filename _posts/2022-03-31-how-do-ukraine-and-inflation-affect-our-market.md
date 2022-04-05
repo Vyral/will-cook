@@ -6,7 +6,8 @@ tags:
   - Palm Springs Market Update
   - Palm Springs Real Estate
 excerpt: Here’s how the war in Ukraine and inflation are affecting our market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Will+Cook/How+Are+Ukraine+and+Inflation+Affecting+Our+Market_.mp4
 pullquote: As long as supply remains low, home prices won’t decrease.
 enclosure_type: video/mp4
 enclosure_time:
