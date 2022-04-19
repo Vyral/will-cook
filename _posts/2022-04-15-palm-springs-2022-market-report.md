@@ -6,7 +6,8 @@ tags:
   - Palm Springs Market Update
   - Palm Springs Real Estate
 excerpt: Your spring Palm Springs 2022 real estate market update.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Will+Cook/Palm+Springs+2022+Market+Report.mp4
 pullquote: >-
   Prices continue to surge as record-high sales and record-low inventory keep
   pushing prices higher.
