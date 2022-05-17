@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/is-now-the-time-to-sell-cook-yt.jpg
-youtube_code: J7pS4xunh_M
+youtube_code: ObWEEPLsxW8
 ---
 {% include youtube.html %}
 
@@ -20,9 +20,9 @@ youtube_code: J7pS4xunh_M
 
 Have housing prices peaked? I hear this question often when I speak to sellers about whether they should list their homes now or wait for the market to shift.
 
-Over the last couple of months, we’ve seen interest rates climbing to the mid-5% range. At the same time, inventory levels have started to rise, buyer demand has dropped off, and inflation has become more of a problem. Despite all this, **I don’t think sellers have missed the boat.&nbsp;**
+Over the last couple of months, we’ve seen interest rates climbing to the mid-5% range. At the same time, inventory levels have started to rise, buyer demand has dropped off, and inflation has become more of a problem. Despite all this, **I don’t think sellers have missed the boat. **
 
-Interest rates have been a key driver in our market over the last couple of years. They made the cost of owning a home cheaper than renting. Our market has also been fueled by COVID and the migration of people who can work from home.&nbsp;
+Interest rates have been a key driver in our market over the last couple of years. They made the cost of owning a home cheaper than renting. Our market has also been fueled by COVID and the migration of people who can work from home.
 
 In recent months, the Federal Reserve has announced they’ve increased the Fed Funds Rate by 50 basis points to combat inflation and that they’ll continue to do this throughout the year.
 
