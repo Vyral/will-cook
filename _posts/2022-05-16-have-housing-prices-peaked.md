@@ -6,7 +6,8 @@ tags:
   - Palm Springs Home Selling Tips
   - Palm Springs Real Estate
 excerpt: Have sellers missed their opportunity to get top dollar for their homes?
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Will+Cook/Have+Housing+Prices+Peaked_.mp4
 pullquote: If you have a plan, it’s still a great time to sell.
 enclosure_type: video/mp4
 enclosure_time:
@@ -20,7 +21,7 @@ youtube_code: ObWEEPLsxW8
 
 Have housing prices peaked? I hear this question often when I speak to sellers about whether they should list their homes now or wait for the market to shift.
 
-Over the last couple of months, we’ve seen interest rates climbing to the mid-5% range. At the same time, inventory levels have started to rise, buyer demand has dropped off, and inflation has become more of a problem. Despite all this, **I don’t think sellers have missed the boat. **
+Over the last couple of months, we’ve seen interest rates climbing to the mid-5% range. At the same time, inventory levels have started to rise, buyer demand has dropped off, and inflation has become more of a problem. Despite all this, \*\*I don’t think sellers have missed the boat. \*\*
 
 Interest rates have been a key driver in our market over the last couple of years. They made the cost of owning a home cheaper than renting. Our market has also been fueled by COVID and the migration of people who can work from home.
 
