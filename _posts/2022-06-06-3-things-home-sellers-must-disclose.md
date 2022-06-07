@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3 Things Home Sellers Must Disclose
+title: 3 Things To Disclose To Avoid Legal Hassles
 date: 2022-06-06 00:00:00
 tags:
   - Palm Springs Home Selling Tips
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/seller-disclosures-cook-yt.jpg
-youtube_code: 6e7D-56mJOw
+youtube_code: Z3o6QsaXAXk
 ---
 {% include youtube.html %}
 
