@@ -61,8 +61,7 @@ client:
   url: http://WillCookGroup.com
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: >-
-    http://will.palmspringsarea.properties/sell.php?town=city%3APalm+Springs&ppc=Video_Blog_Seller_Home_Value&addht=Video_Blog_Seller_Home_Value
+  first_CTA_URL: https://cook-home-value.paperform.co
   second_CTA_text: Home Search
   second_CTA_URL: >-
     http://will.palmspringsarea.properties/index.php?types[]=1&types[]=2&areas[]=city%3APalm+Springs&fbts=3108061&beds=0&baths=0&min=0&max=30000000&map=0&options[]=new&sortby=listings.listingdate+DESC&quick=1&ppc=VyralVideoBlog_Buyers&addht=VyralVideoBlog_Buyers#rslt
@@ -73,8 +72,7 @@ sidebar_CTA:
       Are you thinking of selling your home or interested in learning about home
       prices in your neighborhood? We can help you.
     CTA_link_text: Free Home Value Report
-    CTA_url: >-
-      http://will.palmspringsarea.properties/sell.php?town=city%3APalm+Springs&ppc=Video_Blog_Seller_Home_Value&addht=Video_Blog_Seller_Home_Value
+    CTA_url: https://cook-home-value.paperform.co
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/008.jpg
     CTA_title2: Looking for a Palm Springs Home?
