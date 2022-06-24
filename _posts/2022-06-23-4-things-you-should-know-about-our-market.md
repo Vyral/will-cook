@@ -18,7 +18,7 @@ youtube_code: mlHXogHAVx4
 
 {% include excerpt.html %}
 
-“Will housing prices collapse?” I’ve been receiving this question almost daily. Interest rates have increased dramatically recently, and many homeowners are worried. The answer isn’t cut and dry, so I want to share four key factors that explain what’s happening in our real estate market:
+“Will housing prices collapse?” I’ve been receiving this question almost daily. Interest rates have increased dramatically recently, and many homeowners are worried. The answer isn’t cut and dry, so here are four key factors that explain what’s happening in our real estate market:
 
 **1\. Mortgages are getting more expensive.** Our buyer pool shrinks as homes become more expensive, and some buyers are no longer qualified to purchase a home at all. With fewer buyers at all price points, we’re unlikely to see the crazy-high appreciation of the last few years continue.&nbsp;
 
