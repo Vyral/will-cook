@@ -16,7 +16,7 @@ youtube_code: uVBJ6sgRCHM
 
 {% include excerpt.html %}
 
-Has the housing market finally slowed down? Maybe you’ve heard about a change in the news or from a friend, and they’re right—Our housing market has slowed. Today I’ll share how this shift might affect you if you own a home. However, first, let’s go over why we’re seeing this change in the first place.
+Is the housing market finally slowing? Maybe you’ve heard about a change in the news or from a friend, and they’re right—our housing market has slowed. Today I’ll share how this shift might affect you if you own a home. However, first, let’s go over why we’re seeing this change in the first place.
 
 One of the reasons is that the Federal Reserve has increased the federal funds rate to fight inflation. This has, in turn, increased our mortgage rates and forced some buyers out of the market. At the same time, more newly built homes are coming on the market, and tons of sellers who are afraid of missing out have started to sell their homes.&nbsp;
 
@@ -24,12 +24,12 @@ While homes were flying off the shelves at the start of this year, **mortgage ra
 
 {% include pullquote.html %}
 
-The higher interest rate environment has taken a huge bite out of home affordability, which is why our demand is down 61% from last year. That diminished demand has caused home inventory in the Greater Palm Springs area to climb from 600 homes in January to 1,600 homes today, a 250% increase. Before the pandemic, the average number of homes in our area was around 4,000.
+The higher interest rate environment has taken a huge bite out of home affordability, which is why our demand is down 61% from last year. That diminished demand has caused home inventory in the Greater Palm Springs area to climb from 600 homes in January to 1,600 homes today, a 250% increase. Before the pandemic, the average number of homes for sale in our area was around 4,000.
 
 **We have less demand in our market, but our supply of homes is also still low.** Selling your home is no longer instant, and properly pricing your house is crucial to your success. The expected days on market will likely continue to grow throughout fall. Depending on how mortgage rates change, the days on market could increase drastically, but we don’t expect prices to change.&nbsp;
 
 However, if the affordability issues persist, **home prices could slowly decline, but these drops would be small.** Our market is still strong, and sellers aren’t too desperate. They have tons of equity due to the last few years, a low interest rate, and plenty of financial stability.
 
-The bottom line is that the longer you wait to sell, the harder it will be. Our market is still strong, and sellers can still succeed if they properly price their home and prepare it for the market.
+The bottom line is that the longer you wait to sell, the harder it will be. Our market is still strong, and sellers can succeed if they properly price their home and prepare it for the market.
 
-If you have any questions about your unique situation, I’d be happy to discuss them with you. Just call or email me. I look forward to hearing from you.
+If you have any questions about your unique situation, I’d be happy to discuss them with you. Just call or email me; I look forward to hearing from you.
