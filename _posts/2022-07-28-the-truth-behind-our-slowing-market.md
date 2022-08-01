@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/slowing-market-cook-yt.jpg
-youtube_code: uVBJ6sgRCHM
+youtube_code: 0x4ZkhKVJ7k
 ---
 {% include youtube.html %}
 
