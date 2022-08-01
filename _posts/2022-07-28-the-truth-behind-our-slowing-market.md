@@ -5,7 +5,7 @@ date: 2022-07-28 19:32:44
 tags:
 excerpt: Why our real estate market has slowed down throughout the year.
 enclosure:
-pullquote: The longer you wait to sell, the harder it will be.
+pullquote: 'The longer you wait to sell, the harder it will be. '
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
