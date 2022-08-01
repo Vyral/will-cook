@@ -8,7 +8,7 @@ enclosure:
 pullquote: The longer you wait to sell, the harder it will be.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/slowing-market-cook-yt.jpg
 youtube_code: uVBJ6sgRCHM
 ---
