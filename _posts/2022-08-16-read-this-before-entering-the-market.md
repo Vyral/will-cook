@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/summer-market-update-cook-yt.jpg
-youtube_code: Qj0Hxm1TDkY
+youtube_code: rXF5kLlzj4A
 ---
 {% include youtube.html %}
 
@@ -20,7 +20,7 @@ youtube_code: Qj0Hxm1TDkY
 
 While our market has begun to shift in favor of buyers, it’s not a full-blown buyer's market. Today I’ll update you on the summer market.&nbsp;
 
-Our absorption rate remains low because of our lack of inventory, which keeps our prices strong. July’s median price for a detached home in the Coachella Valley was $710,000, a $10,000 monthly increase&nbsp; and a 19.3% year-over-year increase. We’ve now entered the seasonal period when home prices usually slow or even begin to decline, but we have not seen much of that this year. &nbsp;However,&nbsp;**high sales and low inventory, which have driven up prices, are rapidly reversing.**&nbsp;We should begin seeing a&nbsp;price correction soon.
+Our absorption rate remains low because of our lack of inventory, which keeps our prices strong. July’s median price for a detached home in the Coachella Valley was $710,000, a $10,000 monthly increase&nbsp; and a 19.3% year-over-year increase. We’ve now entered the seasonal period when home prices usually slow or even begin to decline, but we have not seen much of that this year. &nbsp;However,&nbsp;**high sales and low inventory, which have driven up prices, are rapidly reversing.**&nbsp;We should begin seeing a price correction soon.
 
 On August 1, Coachella Valley had 1,633 units in its inventory, which is 801 units more than last year. Inventory has finally started to grow, and it's occurring during the season when it normally contracts. It’ll be important to watch these levels this September since it’s the month when inventory normally begins to expand. If this pattern continues, we could possibly renormalize inventory, and reach 2,500 to 3,000 units by January or February.
 
