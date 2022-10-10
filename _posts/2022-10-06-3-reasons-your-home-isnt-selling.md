@@ -11,7 +11,7 @@ pullquote: A price that’s too high might scare buyers away
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/home-wont-sell-cook-yt.jpg
+youtube_alternate_image: /uploads/image-2022-10-10-102746182.png
 youtube_code: dQQbLnWO0sQ
 ---
 {% include youtube.html %}
