@@ -18,7 +18,7 @@ youtube_code: ljKsFOr34ME
 
 {% include excerpt.html %}
 
-You've invested a great deal in your house, so when it’s time to list it on the market, you expect potential buyers to see its true value. However, sometimes you get an offer that is so far below the asking price that it feels like a gut punch. So should you walk away? Or does it make sense to pause and consider your options? Today I’m sharing some points to consider before you decide.&nbsp;
+You've invested a great deal in your house, so when it’s time to list it on the market, you expect potential buyers to see its true value. However, sometimes you get an offer that is so far below the asking price that it feels like a gut punch. Should you walk away? Or does it make sense to pause and consider your options? Today I’m sharing some points to consider before you decide.&nbsp;
 
 **Feel free to watch the full interview or use these timestamps to browse specific topics at your leisure:**
 
@@ -36,4 +36,4 @@ You've invested a great deal in your house, so when it’s time to list it on th
 
 5:13 — Wrapping up
 
-If you have any other questions, feel free to reach out to me. Give us a call, text or an email, and I'll make a video about it. I look forward to hearing from you\!
+If you have any other questions, feel free to reach out to me. Call, text, or email me. I look forward to hearing from you\!
