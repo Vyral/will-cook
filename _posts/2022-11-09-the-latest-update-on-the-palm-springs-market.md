@@ -18,7 +18,7 @@ youtube_code: 1w9R7DhK9UU
 
 {% include excerpt.html %}
 
-What’s happening to the Greater Palm Springs real estate market? We are in a different market than we experienced last year at this time, but it's not all doom and gloom like some headlines might make you believe. **The market has shifted, but it hasn’t crashed.** Today I’ll share some critical data about our marketto help guide your real estate plans.&nbsp;
+What’s happening to the Greater Palm Springs real estate market? We are in a different market than we experienced last year at this time, but it's not all doom and gloom like some headlines might make you believe. **The market has shifted, but it hasn’t crashed.** Today I’ll share some critical data about our market to help guide your real estate plans.&nbsp;
 
 First, the median price of a detached home in Coachella Valley as of November 1 is $675,000. That is $5,000 higher than last month and up 12.5% year over year. So far, the price correction many have feared has been relatively mild—some of it may even just be seasonal. It's important during times like this to follow the data and not the alarming comments people often make.&nbsp;
 
