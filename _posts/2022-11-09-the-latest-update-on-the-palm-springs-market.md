@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Latest Update on the Palm Springs Market
+title: Fall 2022 Palm Springs Area Market Update
 date: 2022-11-09 00:00:00
 tags:
   - Palm Springs Real Estate
@@ -24,7 +24,7 @@ First, the median price of a detached home in Coachella Valley as of November 1 
 
 Secondly, inventory is at 2,048 units, which is 241 units higher than last month and 1,133 more than last year. Some of this increase is seasonal; if the pattern continues, the number of homes for sale will probably reach 2,500 units by February. However, keep in mind that the pre-pandemic norm is over 3,000 units.&nbsp;
 
-The graph at 2:21 in the video above displays the current months of sales ratio by price bracket compared to last year. Ratios in every bracket far exceed last year’s levels. **The recovery of inventory is even, occurring across all price ranges. **
+The graph at 2:21 in the video above displays the current months of sales ratio by price bracket compared to last year. Ratios in every bracket far exceed last year’s levels. \*\*The recovery of inventory is even, occurring across all price ranges. \*\*
 
 {% include pullquote.html %}
 
