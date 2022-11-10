@@ -11,7 +11,7 @@ pullquote: Both buyers and sellers can still find success in today’s market.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/market-update-cook-yt.jpg
+youtube_alternate_image: /uploads/market-update-cook-yt-2.jpg
 youtube_code: 1w9R7DhK9UU
 ---
 {% include youtube.html %}
