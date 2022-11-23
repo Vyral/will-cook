@@ -24,7 +24,7 @@ youtube_code: HuJEpj2tKb0
 
 First, if you're not a cash buyer, interest rates are going to affect you. Yes, interest rates are higher than they were in 2020 and 2021, but they're still historically low. A global pandemic created a pretty abnormal market, but now things are adjusting, and interest rates are rising.&nbsp;
 
-If you lock your rate now and the rates go up, you can keep your lower rate. If they go down, you can refinance. There are many headlines about higher interest rates, but the important thing is you're financing; what really matters is your monthly payment. Fortunately, **there are many new mortgage programs that will help you lower your payment, such as interest rate buydowns or adjustable-rate mortgages.**
+If you lock your rate now and the rates go up, you can keep your lower rate. If they go down, you can refinance. There are many headlines about higher interest rates, but the important thing is your financing; what really matters is your monthly payment. Fortunately, **there are many new mortgage programs that will help you lower your payment, such as interest rate buydowns or adjustable-rate mortgages.**
 
 {% include pullquote.html %}
 
