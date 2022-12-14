@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Our Holiday Message to You
+title: Happy Holidays From the Will Cook Group
 date: 2022-12-13 00:00:00
 tags:
   - Palm Springs Real Estate
