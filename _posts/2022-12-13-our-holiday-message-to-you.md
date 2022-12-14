@@ -17,8 +17,12 @@ youtube_code: '-5WrIqQWMn4'
 
 {% include excerpt.html %}
 
-Happy holidays\! We hope you and your family have a wonderful holiday this year.&nbsp;
+Happy holidays to you\!
 
-We just wanted to take a moment to thank you for your continued support throughout the years. We wouldn’t be where we are today without your help\! **It truly brings us joy to help you make your real estate dreams a reality.&nbsp;**
+The holiday season has officially arrived. We hope you enjoy this wonderful time of year and make some fantastic memories.
 
-If you have any questions, please don’t hesitate to reach out to us. We’re here to help you in any way we can. Have a very happy holidays\!
+**We wanted to take a moment to thank you for your continued support**. We love helping people make their real estate dreams come true, so thank you for working with us and supporting our business.
+
+This may be a busy time of year, but we are always here to help you and answer any questions you may have. Give us a call or email, we’d love to help you.&nbsp;
+
+In case we don’t hear from you until 2023, have a happy New Year\!
