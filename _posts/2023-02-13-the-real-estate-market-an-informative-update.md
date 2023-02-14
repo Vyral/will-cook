@@ -18,7 +18,7 @@ youtube_code: 87eAlQSxiMg
 
 {% include excerpt.html %}
 
-Are you thinking about buying, selling, or investing in the greater Palm Springs market? If so, you need to have the best available data on hand to make an informed decision. Today, I’ll be going over all of the latest numbers to let you know how our housing market stands.
+Are you thinking about buying, selling, or investing in the greater Palm Springs market? If so, you need to have the best available data on hand to make an informed decision. Today, I’ll be going over all of the latest numbers to let you know where our housing market stands.
 
 **Feel free to watch the full message above or use these timestamps that will direct you to various points in the video:**
 
