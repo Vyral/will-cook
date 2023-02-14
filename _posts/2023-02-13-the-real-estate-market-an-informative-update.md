@@ -28,7 +28,7 @@ Are you thinking about buying, selling, or investing in the greater Palm Springs
 
 1:08 — Housing inventory
 
-1:45 — Price & Price per square foot
+1:45 — Pricing & Price per square foot
 
 2:16 — Months of sales
 
