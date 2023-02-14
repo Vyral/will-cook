@@ -42,4 +42,4 @@ Are you thinking about buying, selling, or investing in the greater Palm Springs
 
 4:33 — Wrapping up
 
-Hopefully, this information will be helpful to you and for your real estate needs. If you have any questions about this topic or real estate in general, please feel free to reach out to me. I would be happy to assist you with anything you might need.
+If you have any questions about this topic or real estate in general, please feel free to reach out to me. I would be happy to assist you with anything you might need, so call or email me anytime.
