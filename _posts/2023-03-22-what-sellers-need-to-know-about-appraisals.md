@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/appraisals-cook-yt.jpg
-youtube_code: 2fZMZgfzvaU
+youtube_code: a-MCplTh-HQ
 ---
 {% include youtube.html %}
 
