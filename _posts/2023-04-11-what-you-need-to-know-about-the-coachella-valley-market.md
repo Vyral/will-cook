@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What You Need to Know About the Coachella Valley Market
+title: Palm Springs Area Spring 2023 Market Update
 date: 2023-04-11 00:00:00
 tags:
   - Palm Springs Real Estate
