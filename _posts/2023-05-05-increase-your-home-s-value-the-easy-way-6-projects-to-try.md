@@ -5,7 +5,7 @@ date: 2023-05-05 10:00:00
 tags:
   - Palm Springs Real Estate
   - Palm Springs Home Selling Tips
-excerpt: Here are the projects homeowners need to know when updating their houses.
+excerpt: Six projects homeowners should consider when updating their houses.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
