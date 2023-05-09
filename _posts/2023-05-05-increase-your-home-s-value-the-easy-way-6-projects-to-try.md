@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Increase Your Home’s Value the Easy Way: 6 Projects To Try '
+title: The 6 Best Low-cost Home Improvement Projects for Sellers
 date: 2023-05-05 10:00:00
 tags:
   - Palm Springs Real Estate
