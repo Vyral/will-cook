@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The 6 Best Low-cost Home Improvement Projects for Sellers
+title: The 6 Best Low-Cost Home Improvement Projects for Sellers
 date: 2023-05-05 10:00:00
 tags:
   - Palm Springs Real Estate
