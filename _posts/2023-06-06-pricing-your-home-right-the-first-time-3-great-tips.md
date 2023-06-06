@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pricing Your Home Right the First Time: 3 Great Tips'
+title: 'Pricing Your Home Right the First Time: 3 Tips'
 date: 2023-06-06 10:00:00
 tags:
   - Palm Springs Real Estate
