@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/cook-yt-4.jpg
-youtube_code: lOWfkJavCcI
+youtube_code: 7nRBM21hdPU
 ---
 {% include youtube.html %}
 
