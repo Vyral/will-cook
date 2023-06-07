@@ -61,11 +61,9 @@ client:
   url: http://WillCookGroup.com
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: >-
-    https://will.palmspringsarea.properties/sell.php?town=city%3APalm+Springs&ppc=Video_Blog_Seller_Home_Value&addht=Video_Blog_Seller_Home_Value
+  first_CTA_URL: https://willcook.equityunion.com/seller/valuation/
   second_CTA_text: Home Search
-  second_CTA_URL: >-
-    http://will.palmspringsarea.properties/index.php?types[]=1&types[]=2&areas[]=city%3APalm+Springs&fbts=3108061&beds=0&baths=0&min=0&max=30000000&map=0&options[]=new&sortby=listings.listingdate+DESC&quick=1&ppc=VyralVideoBlog_Buyers&addht=VyralVideoBlog_Buyers#rslt
+  second_CTA_URL: https://willcook.equityunion.com/index.php?showagency=1&rtype=map
 sidebar_CTA:
   - CTA_image_path: /uploads/new-hv.jpg
     CTA_title: What’s Your Palm Springs Home Worth?
