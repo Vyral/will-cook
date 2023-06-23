@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Palm Springs Homes in High Demand: Sales Surge to New Levels'
+title: Palm Springs Area Home Sales are Up
 date: 2023-06-21 10:00:00
 tags:
   - Palm Springs Real Estate
