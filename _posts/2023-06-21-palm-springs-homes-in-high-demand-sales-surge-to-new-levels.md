@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Palm Springs Area Home Sales are Up
+title: Palm Springs Area Summer Market Update
 date: 2023-06-21 10:00:00
 tags:
   - Palm Springs Real Estate
