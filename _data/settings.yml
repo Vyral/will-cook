@@ -61,9 +61,9 @@ client:
   url: http://WillCookGroup.com
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: https://willcook.equityunion.com/seller/valuation/
+  first_CTA_URL: https://www.palmspringsrealty.com/seller/valuation/
   second_CTA_text: Home Search
-  second_CTA_URL: https://willcook.equityunion.com/index.php?showagency=1&rtype=map
+  second_CTA_URL: https://myre.io/0b8EuyNLkBXt
 sidebar_CTA:
   - CTA_image_path: /uploads/new-hv.jpg
     CTA_title: What’s Your Palm Springs Home Worth?
