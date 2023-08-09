@@ -18,7 +18,7 @@ youtube_code: hhRyeDUWvz4
 
 {% include excerpt.html %}
 
-Today, we will delve into the dynamic real estate market of the Greater Palm Springs area. Join me as we explore the current trends and data impacting home sales in the region. Whether you're a prospective buyer aiming to secure a property at the current interest rates or a seller seeking the best strategy to present your property, we have you covered. [Click here](https://willcook.net/July_2023_Desert_Housing_Report.pdf){: target="_blank" rel="noopener"} for an in-depth look at our current market statistics.
+Today, we will delve into the dynamic real estate market of the Greater Palm Springs area. Join me as we explore the current trends and data impacting home sales in the region. Whether you're a prospective buyer aiming to secure a property at the current interest rates or a seller seeking the best strategy to present your property, we have you covered. **[Click here](https://willcook.net/July_2023_Desert_Housing_Report.pdf){: target="_blank" rel="noopener"}** for an in-depth look at our current market statistics.
 
 **Feel free to watch the full message above or use these timestamps that will direct you to various points in the video:**
 
