@@ -1,6 +1,8 @@
 ---
 layout: post
-title: 'Fall Real Estate Market Update: What''s Happening in Coachella Valley'
+title: >-
+  Fall Real Estate Market Update: What's Happening in the Greater Palm Springs
+  Area
 date: 2023-11-13 08:00:00
 tags:
   - Palm Springs Market Update
@@ -10,8 +12,8 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/11-13-23yt.jpg
-youtube_code: VQsSgzjKu9c
+youtube_alternate_image: /uploads/11-14-23yt.jpg
+youtube_code: oqZXg5IF90M
 ---
 {% include youtube.html %}
 
