@@ -4,7 +4,7 @@ title: 'Market Momentum: Palm Springs Real Estate Update and Projections'
 date: 2024-02-12 08:00:00
 tags:
   - Palm Springs Market Update
-excerpt: An update on the current dynamics in the Coachella Valley market.
+excerpt: An update on the current dynamics in the Palm Springs market.
 enclosure:
 pullquote: This stability is expected to persist for at least the next six months.
 enclosure_type: video/mp4
