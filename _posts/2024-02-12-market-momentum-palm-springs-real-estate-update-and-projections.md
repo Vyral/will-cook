@@ -10,7 +10,7 @@ pullquote: This stability is expected to persist for at least the next six month
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/2-12-24yt.jpg
+youtube_alternate_image: /uploads/2-14-24yt.jpg
 youtube_code: BsDRYtiRVi0
 ---
 {% include youtube.html %}
