@@ -19,13 +19,13 @@ youtube_code: sC3ASh1xOjE
 
 {% include excerpt.html %}
 
-When it comes to real estate, having a professional buyer's agent can make all the difference in pushing through the complex transactions. These experts offer a multitude of benefits, from advocating for your best interests to utilizing their extensive networks.
+When it comes to real estate, having a professional buyer's agent can make all the difference in pushing through complex transactions. These experts offer a multitude of benefits, from advocating for your best interests to utilizing their extensive networks.
 
 You might have heard about the upcoming changes in how we do business due to the National Association of Realtors' settlement, taking effect in July 2024. These changes will have major impacts on our business practices.
 
 But first, our focus is squarely on the merits of professional buyer representation. From expert negotiation skills to access to exclusive opportunities, these agents bring valuable advantages to the table.
 
-Firstly, let's define a buyer's agent. A buyer's agent is a licensed real estate professional who aids buyers in finding, negotiating, and securing the right property. Here are the six reasons why 89% of consumers rely on buyer's agents to guide them through the home buying journey.
+Firstly, let's define a buyer's agent. A buyer's agent is a licensed real estate professional who aids buyers in finding, negotiating, and securing the right property. Here are the six reasons why 89% of consumers rely on buyer's agents to guide them through the home-buying journey.
 
 {% include pullquote.html %}
 
@@ -39,6 +39,6 @@ Firstly, let's define a buyer's agent. A buyer's agent is a licensed real estate
 
 **As for the fifth benefit of working with the buyer's agent is their network of vendors and service providers.** These professionals are typically assessed through personal experience or verified recommendations, ensuring they can support the buyer throughout the transaction and beyond.
 
-Lastly, **the sixth benefit of working with a buyer's agent is that they are data driven and not emotional.** They assist buyers in making rational, data-driven decisions, offering both emotional support and a perspective grounded in data.
+Lastly, **the sixth benefit of working with a buyer's agent is that they are data-driven and not emotional.** They assist buyers in making rational, data-driven decisions, offering both emotional support and a perspective grounded in data.
 
-These are the benefits that underscore the value of working with a buyer's agent in real estate transactions. If you have any other questions, please feel free to give us a call, text or an email.
+These are the benefits that underscore the value of working with a buyer's agent in real estate transactions. If you have any other questions, please feel free to give us a call, text, or an email.
