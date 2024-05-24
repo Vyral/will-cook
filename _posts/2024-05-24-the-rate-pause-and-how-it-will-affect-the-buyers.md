@@ -34,5 +34,3 @@ In the latest twist in the housing market happenings, the Federal Reserve has de
 5:01 — Wrapping up
 
 Understanding these shifts in the housing market can help you make smarter real estate decisions in the coming months. Stay tuned for further updates as we follow this matter together. If you have any questions or need advice, please call or email us.
-
-{% include pullquote.html %}
