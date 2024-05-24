@@ -15,7 +15,7 @@ youtube_code: S6oRVCvUDUM
 
 {% include excerpt.html %}
 
-In the latest twist in the housing market happenings, the Federal Reserve has decided to maintain its rate pause, leaving both home buyers and sellers in a state of anticipation. Despite raising rates 11 times over the past two years, the Fed is holding steady amidst persistent inflation, now hovering around 3.5%. This decision, signals a cautious approach to economic stabilization. As the market digests this news, questions loom about the future of mortgage rates and their impact on housing affordability.
+In the latest twist in the housing market happenings, the Federal Reserve has decided to maintain its rate pause, leaving both home buyers and sellers in a state of anticipation. Despite raising rates 11 times over the past two years, the Fed is holding steady amidst persistent inflation, now hovering around 3.5%. This decision signals a cautious approach to economic stabilization. As the market digests this news, questions loom about the future of mortgage rates and their impact on housing affordability.
 
 **You can listen to our full explanation in the video above or skip to each topic using the timestamps provided:**
 
