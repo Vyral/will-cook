@@ -3,7 +3,6 @@ layout: post
 title: The Rate Pause and How It Will Affect the Buyers
 date: 2024-05-24 07:00:00
 tags:
-  - Palm Springs Real Estate
 excerpt: Learn what the rate pause means for home prices and mortgage rates.
 enclosure:
 pullquote:
@@ -36,5 +35,3 @@ In the latest twist in the housing market happenings, the Federal Reserve has de
 5:01 — Wrapping up
 
 Understanding these shifts in the housing market can help you make smarter real estate decisions in the coming months. Stay tuned for further updates as we follow this matter together. If you have any questions or need advice, please call or email us.<br>
-
-{% include pullquote.html %}
