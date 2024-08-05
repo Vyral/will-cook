@@ -19,7 +19,7 @@ youtube_code: '-ZLD4S7U5w4'
 
 {% include excerpt.html %}
 
-What's going on with home sales in the Greater Palm Springs area? Have you noticed that home sales seem to be a bit sluggish in our area right now? We're about 424% below normal in terms of the number of homes selling at this time of year. Let's discuss four factors contributing to this slowdown.
+What's going on with home sales in the Greater Palm Springs area? Have you noticed that home sales seem to be a bit sluggish in our area right now? We're about 24% below normal in terms of the number of homes selling at this time of year. Let's discuss four factors contributing to this slowdown.
 
 **1\. Affordability:** Interest rates are high, around 7%, affecting affordability and resulting in fewer buyers. Despite this, our median price remains around $700,000, compared to $400,000 in 2020. There may be some relief if the Federal Reserve cuts rates next month, but if not, we might see downward pressure on pricing due to decreased buyer demand.
 
