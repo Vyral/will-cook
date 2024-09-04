@@ -35,4 +35,4 @@ Deciding whether to renovate your current home or relocate to a new one is a sig
 
 Whether you choose to renovate or relocate, the goal is to create a space that enhances your quality of life. Carefully considering your home’s condition, financial implications, emotional attachment, lifestyle needs, market conditions, and environmental impact. In doing so, you can make the best decision for your unique situation.
 
-If you need help in making the right choice whether to renovate or relocate, give me a call at [760-565-5714](760-565-5714){: target="_blank" rel="noopener"}. I’ll be happy to help you.
+If you need help in making the right choice whether to renovate or relocate, give me a call at [760-774-3066](760-774-3066){: target="_blank" rel="noopener"}. I’ll be happy to help you.
