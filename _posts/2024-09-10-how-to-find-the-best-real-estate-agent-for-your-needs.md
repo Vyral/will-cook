@@ -28,6 +28,6 @@ Finding the best real estate agent can be a game-changer when buying or selling 
 4. **Trust your gut.** If you feel a connection with an agent, trust your instinct. You’ll be working closely with this person, so it’s essential to choose someone who inspires confidence and makes you feel at ease. If you “click” with one agent more than another, that’s a good sign you’ve found the right fit.
 {: start="3"}
 
-By following these tips, you’ll be well on your way to finding an agent who can provide the support and expertise you need. **If you’re looking for someone to help you with your real estate needs, you can call or text me at** [**760-565-5714**](760-565-5714){: target="_blank" rel="noopener"}**.**
+By following these tips, you’ll be well on your way to finding an agent who can provide the support and expertise you need. **If you’re looking for someone to help you with your real estate needs, you can call or text me at** [**760-774-3066**](760-774-3066){: target="_blank" rel="noopener"}**.**
 
 &nbsp;
