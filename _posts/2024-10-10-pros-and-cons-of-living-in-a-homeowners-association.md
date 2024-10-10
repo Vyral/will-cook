@@ -28,8 +28,6 @@ Should you live in a homeowners association or not? This is a question a lot of 
 
 **Pro \#4: Community engagement.** HOAs often organize community events, like sports leagues and barbeques, that can foster a sense of community and belonging.
 
-{% include pullquote.html %}
-
 This might all sound great, but it isn’t all upside. Here are four key cons of living in an HOA:
 
 **Con \#1: The monthly fee.** This is probably the most infamous issue of living in an HOA. These fees can be substantial, and they might even increase without your consent.
