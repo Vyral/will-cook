@@ -38,4 +38,4 @@ This might all sound great, but there are downsides you need to be aware of, too
 
 **Con \#4: Additional bureaucracy.** If you want to make changes to your property, you often have to submit a form to your board. This can take time and which that can be pretty annoying.
 
-So, is living in an HOA right for you? Ultimately, the choice is up to you. Remember, no two HOAs are alike, so make sure you do plenty of research before committing yourself to one. In the meantime, don’t hesitate to call me at [**(760) 774-3066**](tel:+17607743066 "tel:7607743066"){: target="_blank" rel="noopener"} ** ** or email me with any questions. I look forward to hearing from you!
+So, is living in an HOA right for you? Ultimately, the choice is up to you. Remember, no two HOAs are alike, so make sure you do plenty of research before committing yourself to one. In the meantime, don’t hesitate to call me at [**(760) 774-3066**](tel:+17607743066 "tel:7607743066"){: target="_blank" rel="noopener"} \*\* \*\* or email me with any questions. I look forward to hearing from you!
