@@ -25,4 +25,4 @@ The holiday season has officially arrived. We hope you enjoy this wonderful time
 
 This may be a busy time of year, but we are always here to help you and answer any questions you may have. Give us a call or email, we’d love to help you.
 
-In case we don’t hear from you until 2024, have a happy New Year!
+In case we don’t hear from you until 2025, have a happy New Year!
