@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: As3XDyZcMo4
+youtube_code: 5Ibe6zLsmjc
 ---
 {% include youtube.html %}
 
@@ -33,7 +33,7 @@ In our area, the median price of a single-family home has climbed slightly to $6
 
 Buyers, waiting too long could cost you. Prices are rising steadily. The longer you delay, the more you may have to pay.
 
-Here’s a big one: buyers care about condition. Homes in great shape still sell fast and sometimes spark bidding wars. But homes needing repairs might sit on the market for a while before receiving an offer.
+Here’s a big one: buyers care about condition. Homes in great shape still sell fast and sometimes spark bidding wars, but homes needing repairs might sit on the market for a while before receiving an offer.
 
 **If you’re selling, invest in small repairs now.** Fresh paint, fixed faucets, or new lighting could make all the difference. Buyers don’t want to spend extra cash fixing things after closing.
 
