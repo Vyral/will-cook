@@ -21,13 +21,13 @@ youtube_code: i68cbXv8nms
 
 {% include excerpt.html %}
 
-Are you curious about what's happening in the real estate market in Greater Palm Springs? Whether you’re buying or selling, it’s crucial to understand what’s happening right now. Today, I'll share the latest trends and what they mean to buyers and sellers.
+Are you curious about what’s happening in the real estate market in Greater Palm Springs? Whether you’re buying or selling, it’s crucial to understand what’s happening right now. Today, I’ll share the latest trends and what they mean to buyers and sellers.
 
 **What’s happening with sales?** Sales in the Greater Palm Springs area have held steady, with 506 units sold this January, just slightly more than the 504 sold last year. This indicates a stable market, with no major changes from last year. However, sales are still running about 26.3% below normal for this time of year. While that may seem like a dip, it’s actually a sign of a balanced market.
 
 **Home prices are steady.** The median price for a detached home in Greater Palm Springs has risen to $689,753, up $30,753 from last year. Prices typically drop a bit toward the end of the year, but this winter they’ve been holding steady. While prices haven’t dramatically increased over the past two and a half years, they’ve remained stable, which is great for both buyers and sellers.
 
-**More homes on the market.** If you're looking to buy, you’ll be happy to know that there are more homes available now. The inventory has increased to 3,389 units, 1,023 more than last year. This increase gives buyers more options to choose from and makes it easier to find the right home. The inventory levels are now also comparable to what we saw before the pandemic, which means things are getting back to normal.
+**More homes on the market.** If you’re looking to buy, you’ll be happy to know that there are more homes available now. The inventory has increased to 3,389 units, 1,023 more than last year. This increase gives buyers more options to choose from and makes it easier to find the right home. The inventory levels are now also comparable to what we saw before the pandemic, which means things are getting back to normal.
 
 {% include pullquote.html %}
 
