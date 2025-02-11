@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Winter 2025 Housing Market Update
-date: 2025-02-11 07:00:00
+date: 2025-02-10 07:00:00
 tags:
   - Palm Springs Real Estate
 excerpt: >-
