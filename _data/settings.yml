@@ -10,9 +10,9 @@ description: >-
 show_custom_links: true
 custom_links:
   - title: Our Listings
-    url: https://www.palmspringsarea.properties/index.php?showagency=1#rslt
+    url: https://www.palmspringsrealty.com/index.php?showagency=1#rslt
   - title: About
-    url: http://will.palmspringsarea.properties/agents/Will+Cook
+    url: 'https://www.palmspringsrealty.com/agents/1256364/Will+Cook '
 client:
   name: Will Cook
   title: Associate Broker/Team Leader of WILL COOK GROUP
