@@ -17,11 +17,11 @@ youtube_code: WYPYxwYSeBQ
 
 {% include excerpt.html %}
 
-If you are looking to buy, sell, or invest in Palm Springs, you are probably wondering what is happening in the real estate market. Many people are asking the same question because they want to know if now is the right time to buy or sell, especially as we head into the busy spring season. The truth is, the market is shifting—but not in a dramatic way. Here's what we're seeing in the Greater Palm Springs area as of April 2025.
+If you are looking to buy, sell, or invest in Palm Springs, you are probably wondering what is happening in the real estate market. Many people are asking the same question because they want to know if now is the right time to buy or sell, especially as we head into the busy spring season. The truth is, the market is shifting—but not in a dramatic way. Here’s what we’re seeing in the Greater Palm Springs area as of April 2025.
 
 **Sales are steady but still below normal.** Over the last three months, the average number of home sales was 645, which was almost exactly the same as last year. So, activity hasn’t dropped off, but it hasn’t picked up much either. We’re still about 18.5% below the historical average for this time of year.
 
-**Home prices are climbing again.** The median price for detached homes is now $710,000, which is $11,000 higher than last year's April. That’s the fifth straight month of price increases. While that may sound strong, prices have seen very little overall growth in the past three years. What we’re seeing is a typical seasonal pattern where prices rise in the spring and dip in the fall.
+**Home prices are climbing again.** The median price for detached homes is now $710,000, which is $11,000 higher than last year’s April. That’s the fifth straight month of price increases. While that may sound strong, prices have seen very little overall growth in the past three years. What we’re seeing is a typical seasonal pattern where prices rise in the spring and dip in the fall.
 
 {% include pullquote.html %}
 
