@@ -35,4 +35,4 @@ But there’s one thing you can do right now to give yourself a serious edge: Ge
 
 In this 2025 market, preparation matters more than ever. If you ever hesitate on getting a pre-inspection so you can save money, just keep in mind that a pre-listing inspection helps you stand out in a competitive market, build trust with today’s cautious buyers, avoid last-minute surprises, and get stronger offers with fewer strings attached.
 
-Thinking about selling this spring or summer? Reach out to me today for a free, no-pressure pre-listing consultation. I’ll help you decide if a pre-inspection makes sense and walk you through how to use it as a powerful marketing tool. Just call, text, or email me—I'm always here to help.
+Thinking about selling this spring or summer? Reach out to me today for a free, no-pressure pre-listing consultation. I’ll help you decide if a pre-inspection makes sense and walk you through how to use it as a powerful marketing tool. Just call, text, or email me—I’m always here to help.
