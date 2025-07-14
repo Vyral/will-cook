@@ -23,7 +23,7 @@ youtube_code: ca-zK2ByZkY
 
 There’s a major disconnect in the Palm Springs housing market, and it’s slowing everything down. Buyers are focused on the future because they’re cautious and are looking for better deals while closely watching prices. Sellers, on the other hand, are holding on to outdated expectations. That disconnect is creating a noticeable slowdown in activity. If you’re considering a move, here’s what’s happening in Greater Palm Springs right now:
 
-**Inventory has climbed significantly.** There are currently 3,651 homes for sale across the area, which is a 40.1% increase compared to this time last year. This means there are more homes on the market, giving buyers more options, but it also puts pressure on sellers to compete. That's why overpricing or skipping repairs can quickly push a listing to the bottom of a buyer’s list.
+**Inventory has climbed significantly.** There are currently 3,651 homes for sale across the area, which is a 40.1% increase compared to this time last year. This means there are more homes on the market, giving buyers more options, but it also puts pressure on sellers to compete. That’s why overpricing or skipping repairs can quickly push a listing to the bottom of a buyer’s list.
 
 **Homes are staying on the market for longer periods.** The average home now takes 77 days to sell, which is nearly two weeks longer than last year. Buyers are taking their time, looking for value, and passing on homes that feel mispriced or neglected. This is why sellers need to ensure their properties are well-presented and ready for move-in.
 
@@ -37,4 +37,4 @@ There’s a major disconnect in the Palm Springs housing market, and it’s slow
 
 **Sellers need to meet today’s market.** If you plan to sell, it’s essential to adjust your expectations. Use recent data when pricing your home, prepare it for showings, and address any visible issues before listing. Buyers are ready, but they are not overpaying.
 
-The Palm Springs market is not in trouble, but it is transitioning to a buyer's market. Those who stay informed and flexible will be in the best position to move forward. If you’re thinking about selling or buying and want a clear strategy based on the latest data, feel free to call or text me at **760-774-3066** or email me at [Will@WillCookRealEstate.com](mailto:Will@WillCookRealEstate.com). I’m here to help explore your options and guide you through this shifting market condition.
+The Palm Springs market is not in trouble, but it is transitioning to a buyer’s market. Those who stay informed and flexible will be in the best position to move forward. If you’re thinking about selling or buying and want a clear strategy based on the latest data, feel free to call or text me at **760-774-3066** or email me at [Will@WillCookRealEstate.com](mailto:Will@WillCookRealEstate.com). I’m here to help explore your options and guide you through this shifting market condition.
