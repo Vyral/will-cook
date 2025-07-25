@@ -35,4 +35,4 @@ The numbers matter, but so does what you gain in the process. Imagine having a h
 
 When making big decisions, it’s essential to take a step back and consider the broader perspective. Interest rates matter, but so do your lifestyle, your equity, and your long-term goals. Before you make any decisions, take the time to weigh your options. A move might be worth it, or a few changes at home could be all you need.
 
-If you're feeling stuck or you have questions, feel free to call or text me at **760-774-3066** or email me at [**<u>Will@WillCookRealEstate.com</u>**<u>.</u>](mailto:Will@WillCookRealEstate.com) I can help you sort through the numbers and talk through what makes the most sense for your situation.
+If you’re feeling stuck or you have questions, feel free to call or text me at **760-774-3066** or email me at [**<u>Will@WillCookRealEstate.com</u>**<u>.</u>](mailto:Will@WillCookRealEstate.com) I can help you sort through the numbers and talk through what makes the most sense for your situation.
