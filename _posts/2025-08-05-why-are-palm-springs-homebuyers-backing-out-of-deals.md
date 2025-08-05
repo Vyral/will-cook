@@ -22,11 +22,11 @@ youtube_code: HLvQwz0I-LM
 
 {% include excerpt.html %}
 
-Buyer cancellations have been rising across the country, and we are seeing the same trend here in Palm Springs. **In June alone, nearly 15% of home sales in the United States were canceled.** That translates to more than 57,000 purchase agreements that fell apart. It's the highest cancellation rate recorded in any June since Redfin began tracking this data in 2017. These numbers reflect a larger shift in the housing market that both buyers and sellers should take seriously.
+Buyer cancellations have been rising across the country, and we are seeing the same trend here in Palm Springs. **In June alone, nearly 15% of home sales in the United States were canceled.** That translates to more than 57,000 purchase agreements that fell apart. It’s the highest cancellation rate recorded in any June since Redfin began tracking this data in 2017. These numbers reflect a larger shift in the housing market that both buyers and sellers should take seriously.
 
 **One of the biggest reasons for this trend is that we are now in a buyer’s market.** In the Greater Palm Springs area, there are 5.3 months of housing inventory, which gives buyers more power and more options. Many of them are taking their time, and if anything feels off during escrow, they are walking away. Inspections are another major factor.
 
-When buyers discover issues like outdated systems, roof problems, or plumbing concerns, they are not hesitating to cancel. They don't feel the same pressure to push forward with a deal that no longer makes sense for them.
+When buyers discover issues like outdated systems, roof problems, or plumbing concerns, they are not hesitating to cancel. They don’t feel the same pressure to push forward with a deal that no longer makes sense for them.
 
 {% include pullquote.html %}
 
@@ -36,6 +36,6 @@ Here in Palm Springs, we are seeing the same signs. **The median sale price is c
 
 **If you’re selling, now is the time to get ahead of these issues**. A pre-listing inspection can help you identify and address problems before buyers find them. Pricing strategy matters as well. If you start too high and plan to negotiate down later, you may end up chasing the market. Buyers are comparing options and looking for value. They will skip overpriced homes without hesitation. Once under contract, sellers should stay engaged, respond quickly, and be willing to offer reasonable concessions.
 
-Cancellations may be higher than usual, but that also means there are more opportunities for those who are prepared. If you are thinking about buying or selling in the Greater Palm Springs area, feel free to call or text me at ** ** [**760-774-3066**](tel:7607743066){: target="_blank" rel="noopener"} or email me at ** ** [**Will@WillCookRealEstate.com**](mailto:Will@WillCookRealEstate.com). I can help you navigate the process with the right strategy and the right expectations.
+Cancellations may be higher than usual, but that also means there are more opportunities for those who are prepared. If you are thinking about buying or selling in the Greater Palm Springs area, feel free to call or text me at \*\* \*\* [**760-774-3066**](tel:7607743066){: target="_blank" rel="noopener"} or email me at \*\* \*\* [**Will@WillCookRealEstate.com**](mailto:Will@WillCookRealEstate.com). I can help you navigate the process with the right strategy and the right expectations.
 
 &nbsp;
