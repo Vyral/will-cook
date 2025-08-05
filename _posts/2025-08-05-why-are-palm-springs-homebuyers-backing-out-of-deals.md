@@ -36,6 +36,6 @@ Here in Palm Springs, we are seeing the same signs. **The median sale price is c
 
 **If you’re selling, now is the time to get ahead of these issues**. A pre-listing inspection can help you identify and address problems before buyers find them. Pricing strategy matters as well. If you start too high and plan to negotiate down later, you may end up chasing the market. Buyers are comparing options and looking for value. They will skip overpriced homes without hesitation. Once under contract, sellers should stay engaged, respond quickly, and be willing to offer reasonable concessions.
 
-Cancellations may be higher than usual, but that also means there are more opportunities for those who are prepared. If you are thinking about buying or selling in the Greater Palm Springs area, feel free to call or text me at \*\* \*\* [**760-774-3066**](tel:7607743066){: target="_blank" rel="noopener"} or email me at \*\* \*\* [**Will@WillCookRealEstate.com**](mailto:Will@WillCookRealEstate.com). I can help you navigate the process with the right strategy and the right expectations.
+Cancellations may be higher than usual, but that also means there are more opportunities for those who are prepared. If you are thinking about buying or selling in the Greater Palm Springs area, feel free to call or text me at [**760-774-3066**](tel:7607743066){: target="_blank" rel="noopener"} or email me at [**Will@WillCookRealEstate.com**](mailto:Will@WillCookRealEstate.com). I can help you navigate the process with the right strategy and the right expectations.
 
 &nbsp;
