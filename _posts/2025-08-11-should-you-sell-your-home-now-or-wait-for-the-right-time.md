@@ -27,7 +27,7 @@ You don’t want to miss out, but you also don’t want to make the wrong move. 
 
 If you’re confused on what to do, don’t worry - I rounded up all the info you’ll need. Check these out:
 
-**1\. You don’t need perfect timing; you need a plan**. Many homeowners wait for the ideal weekend when buyers flood the market and competition is low. But that moment usually becomes clear only after it has passed. While others are trying to guess the right time, prepared sellers are already under contract. They got ready early, and it paid off.
+**1\. You don’t need perfect timing; you need a plan**. Many homeowners want to wait for the ideal weekend when buyers flood the market and competition is low. But that moment usually becomes clear only after it has passed. While others are trying to guess the right time, prepared sellers are already under contract. They got ready early, and it paid off.
 
 {% include pullquote.html %}
 
