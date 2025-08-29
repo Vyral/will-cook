@@ -1,6 +1,6 @@
 ---
 layout: post
-title: August 2025 Palm Springs Real Estate Market Update
+title: Summer 2025 Palm Springs Real Estate Market Update
 date: 2025-08-28 07:00:00
 tags:
   - Palm Springs Market Update
