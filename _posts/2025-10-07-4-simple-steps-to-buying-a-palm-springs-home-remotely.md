@@ -35,4 +35,4 @@ Buying a home in Palm Springs Area or anywhere in the Coachella Valley while liv
 
 The beauty of Palm Springs Area living is that it’s designed for ease and convenience. With the proper guidance, you can search, negotiate, and close from anywhere and soon be watching the sunset from your own poolside patio.
 
-If you’re thinking about buying a home in Palm Springs Area or the Coachella Valley, I’d love to help you plan your next move. You can reach me at [**(760) 565-5714**](tel:7605655714){: target="_blank" rel="noopener"} or [**will@willcookgroup.com**](mailto:will@willcookgroup.com). Let’s make your desert home a reality, no matter where you’re starting from.
+If you’re thinking about buying a home in Palm Springs Area or the Coachella Valley, I’d love to help you plan your next move. You can reach me at [**(760) 565-5714**](tel:7605655714){: target="_blank" rel="noopener"} or [**Will@WillCookRealEstate.com**](mail:Will@WillCookRealEstate.com){: target="_blank" rel="noopener"}. Let’s make your desert home a reality, no matter where you’re starting from.
