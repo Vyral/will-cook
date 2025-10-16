@@ -5,12 +5,12 @@ date: 2025-10-13 07:00:00
 tags:
   - Palm Springs Real Estate
 excerpt: >-
-  Each city in Greater Palm Springs offers a unique mix of lifestyle, price, and
-  personality, making it easy to find one that fits your goals.
-enclosure:
-pullquote: >-
   Choosing where to live in Greater Palm Springs depends on your goals. I’ll
   help you compare lifestyle, pricing, and value across every city.
+enclosure:
+pullquote: >-
+  Each city in Greater Palm Springs offers a unique mix of lifestyle, price, and
+  personality, making it easy to find one that fits your goals.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
