@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: VPDfx3h6nyo
+youtube_code: yHKUU5TRan8
 ---
 {% include youtube.html %}
 
@@ -25,5 +25,3 @@ Enjoy your Thanksgiving dinner, that’s what we plan to do!
 In the meantime, please don’t hesitate to reach out to us if you have any real estate questions. We would be happy to help you.
 
 Happy Thanksgiving!
-
-<br>
