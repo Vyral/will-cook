@@ -19,13 +19,13 @@ youtube_code: HYsbA7J_JAQ
 
 {% include excerpt.html %}
 
-What does a buyer's agent really do? If you think buying a home is just about finding the perfect place online and signing a few papers, think again. There’s a lot more going on behind the scenes, and if you’re not prepared, it can get complicated fast. That's where I come in.
+What does a buyer’s agent really do? If you think buying a home is just about finding the perfect place online and signing a few papers, think again. There’s a lot more going on behind the scenes, and if you’re not prepared, it can get complicated fast. That’s where I come in.
 
-As your buyer's agent, I'm not just here to show homes. I'm here to guide, protect, and help you make smart moves from start to finish.
+As your buyer’s agent, I’m not just here to show homes. I’m here to guide, protect, and help you make smart moves from start to finish.
 
 **Understanding the process.** From day one, I help you understand everything you need to know before you even set foot inside a home. That includes what neighborhoods are like, how much homes really cost, what fees come with owning, and what rules might apply, such as HOA rules or whether a home is in a flood zone.
 
-I also help you figure out what you can afford so you’re not wasting time on homes that are outside your budget. And when you do find "the one," I’ll move quickly to get you in the door.
+I also help you figure out what you can afford so you’re not wasting time on homes that are outside your budget. And when you do find “the one,” I’ll move quickly to get you in the door.
 
 {% include pullquote.html %}
 
