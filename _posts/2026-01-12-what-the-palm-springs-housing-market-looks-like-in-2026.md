@@ -27,6 +27,8 @@ The fast, emotional pace of the pandemic years is behind us. Today’s market is
 
 **The market has matured.** As we head into 2026, the Palm Springs market looks more like a mature, well-balanced marketplace. Buyers are no longer rushing to beat the next offer, and sellers can’t rely on momentum alone. Success now depends on planning, realistic expectations, and a clear understanding of current conditions. This shift may feel slower on the surface, but it often leads to better outcomes on both sides of the transaction.
 
+{% include pullquote.html %}
+
 **Inventory, choice, & negotiation.** One of the most noticeable changes is in inventory. Buyers now have real options, something they haven’t had in years. With more choice comes leverage, and with leverage comes negotiation. This is especially true in the luxury segment, where homes are taking longer to sell, and pricing discipline matters more than ever.
 
 The homes that are performing well share common traits. They are priced correctly from the start, presented thoughtfully, and positioned with intention. Overpricing and waiting for the market to catch up rarely work in this environment. Buyers are paying attention, comparing options, and making informed decisions.
@@ -39,4 +41,4 @@ The Palm Springs market heading into 2026 is steady, intentional, and full of op
 
 If you’d like a personalized breakdown for your neighborhood or want to understand how these market shifts impact your next move, feel free to call or text me at [**760-774-3066**](tel:7607743066){: target="_blank" rel="noopener"} or email me at [**Will@WillCookRealEstate.com**](mailto:Will@WillCookRealEstate.com). I’ll help you make clear, confident decisions in today’s Palm Springs market.
 
-{% include pullquote.html %}
+&nbsp;
