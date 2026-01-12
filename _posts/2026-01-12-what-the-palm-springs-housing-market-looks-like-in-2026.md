@@ -37,6 +37,6 @@ The homes that are performing well share common traits. They are priced correctl
 
 The Palm Springs market heading into 2026 is steady, intentional, and full of opportunity. Inventory has improved, pricing has stabilized, and buyers and sellers can succeed with the right preparation and strategy.
 
-If you’d like a personalized breakdown for your neighborhood or want to understand how these market shifts impact your next move, feel free to call or text me at [**760-774-3066**](tel:7607743066){: target="_blank" rel="noopener"} or email me at [**Will@WillCookRealEstate.com**](mailto:Will@WillCookRealEstate.com). I'll help you make clear, confident decisions in today’s Palm Springs market.
+If you’d like a personalized breakdown for your neighborhood or want to understand how these market shifts impact your next move, feel free to call or text me at [**760-774-3066**](tel:7607743066){: target="_blank" rel="noopener"} or email me at [**Will@WillCookRealEstate.com**](mailto:Will@WillCookRealEstate.com). I’ll help you make clear, confident decisions in today’s Palm Springs market.
 
 {% include pullquote.html %}
