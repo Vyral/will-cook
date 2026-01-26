@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What $2.5 to $3.5 Million Buys You in Palm Springs
+title: What $2.5 to $3.5 Million Buys You in Palm Springs Area
 date: 2026-01-26 07:00:00
 tags:
   - Palm Springs Real Estate
