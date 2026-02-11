@@ -10,7 +10,7 @@ excerpt: >-
 enclosure:
 pullquote: >-
   The market is no longer driven by urgency, but it isn’t showing signs of
-  weakness either. 
+  weakness either.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
